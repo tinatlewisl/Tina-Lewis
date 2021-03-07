@@ -14,13 +14,13 @@ main:
     url: '#featured'
     weight: 50
   - name: Consulting Work
-    url: '#projects'
+    url: '#Cwork'
     weight: 70
   - name: Teaching
     url: '#talks'
     weight: 80
   - name: Projects
-    url: ''
+    url: '#projects'
     weight: 90
   - name: Contact
     url: '#contact'
