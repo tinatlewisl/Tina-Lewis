@@ -48,7 +48,7 @@ experience:
         * Built a Machine learning interpretability tool to facilitate comprehension of machine learning result to bussiness team
         * Model Machine learning algorithm to assist various product team decisions
      
-    - title: Statistics Consultant
+  - title: Statistics Consultant
     company: Purdue Statistical Consulting Services
     company_url: 'https://www.stat.purdue.edu/scs/index.html'
     location: West Lafayette, IN
