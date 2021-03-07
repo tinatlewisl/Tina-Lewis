@@ -30,6 +30,7 @@ experience:
     date_end: ''
     description: |2-
         Purdue Data Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
+        
         Responsibilities include:
         
         * Supervising a group of 12 TAs
