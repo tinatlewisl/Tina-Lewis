@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 110
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -25,7 +25,7 @@ experience:
   - title: Head Teaching Assistant
     company: Purdue Data Mine 19000: The first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.
     company_url: ''
-    location: California
+    location: West Layette, IN
     date_start: '2019-08-15'
     date_end: ''
     description: |2-
@@ -45,8 +45,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Built a Machine learning interpretability tool to facilitate comprehension of machine learning result to bussiness team
-        * Model Machine learning algorithm to assist various product team decisions
+        * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.
+        * Model Machine learning algorithm to assist various product team decisions.
      
   - title: Statistics Consultant
     company: Purdue Statistical Consulting Services
