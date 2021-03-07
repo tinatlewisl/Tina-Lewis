@@ -14,7 +14,7 @@ organizations:
   url: https://tinatl-lewislt.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include theoretical derivations of Tensor analyses and their application to Machine Learning. I have also worked on applied projects in Reinforcement Learning over the years and also have 3 years works of work expereince as a Consultant in applied Statistics.
+bio: My research interests include the theoretical analysis of tensors and their application to machine learning. I have also worked on applied projects in reinforcement learning over the years and also have 3 years of work experience as a statistics consultant.
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,11 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: false
 ---
 
-Tina Lewis is a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. Her research interests include the theoretical analysis of tensors and their application to various machine learning methods, reinforcemnt learning and the design of statistical experiments. She has three years of work experience as a statsical consultant and has worked on over 100 projects from begining to completion. She also has over four years of experience teaching a wide variety of maths and statistics courses.
+I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations. To this end I work on the theory of tensors but also develop algorithms which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
+
+I have three years of work experience as a consultant in Statistics during which period I worked on over 100 projects from beginning to completion. I find joy in sharing the knowledge I have and deed so trough four years of teaching a wide variety of undergraduate and graduate level math and statistics courses.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
