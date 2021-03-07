@@ -9,22 +9,22 @@ main:
     weight: 10
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 30
   - name: Publications
     url: '#featured'
     weight: 50
   - name: Consulting Work
     url: '#projects'
-    weight: 30
+    weight: 70
   - name: Teaching
     url: '#talks'
-    weight: 40
+    weight: 80
   - name: Projects
     url: ''
-    weight: 40
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
