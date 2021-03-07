@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 110
+weight: 40
 
 title: Work Experience
 subtitle:
