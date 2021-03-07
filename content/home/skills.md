@@ -19,15 +19,15 @@ feature:
 - description: Computing
   icon: r-project
   icon_pack: fab 
-  name: R, Python, Matlab, C, SAS
+  name: R, Python, Matlab, C, SQL, SAS
+- description: Expertize
+  icon: camera-retro
+  icon_pack: fas
+  name: Statistics Consulting, Machine Learning models design
 - description: Language
   icon: chart-line
   icon_pack: fas
   name: English, French, Moore
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
