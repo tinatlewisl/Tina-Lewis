@@ -31,14 +31,14 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Supervising a group of 12 TAs 2
+        * Supervising a group of 12 TAs 24
         * Co-writting projects
         * Holding Office hours
         * Contributing to the DataMine example book
         
   - title: Data Science Intern
     company: Asana
-    company_url: 'https://asana.com/?noredirect'
+    company_url: 'https://asana.com'
     location: San Francisco, CA
     date_start: '2018-05-01'
     date_end: '2018-09-31'
