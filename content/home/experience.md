@@ -25,7 +25,7 @@ experience:
   - title: Head Teaching Assistant
     company: Purdue Data Mine 
     company_url: 'https://datamine.purdue.edu/'
-    location: West Layette, IN
+    location: West Lafayette, IN
     date_start: '2019-08-15'
     date_end: ''  
     description: |2-  
@@ -53,7 +53,7 @@ experience:
   - title: Statistics Consultant
     company: Purdue Statistical Consultant Service 
     company_url: 'https://www.stat.purdue.edu/scs/index.html'
-    location: West Layette, IN
+    location: West Lafayette, IN
     date_start: '2015-08-15'
     date_end: '2018-12-15'  
     description: |2-  
