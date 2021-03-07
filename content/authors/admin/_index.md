@@ -68,7 +68,7 @@ I am Tina Lewis, a PhD student in statistics at Purdue University working under 
 
 I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
 
-I have three years of work experience as a consultant in Statistics during which period I worked on over 100 projects from beginning to completion. I find joy in sharing the knowledge I have acquired and did so trough four years of teaching a wide variety of undergraduate and graduate level math and statistics courses.
+I have three years of work experience as a Statistics consultant during which period I worked on over 100 projects from beginning to completion. I find joy in sharing the knowledge I have acquired and did so trough four years of teaching a wide variety of undergraduate and graduate level math and statistics courses.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
