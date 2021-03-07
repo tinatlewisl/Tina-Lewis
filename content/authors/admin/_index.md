@@ -43,18 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tinatlewisl
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tina-lewis-101316207/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,11 +64,11 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: false
 ---
 
-I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations. To this end I work on the theory of tensors but also develop algorithms which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
+I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations. To this end I work on the theory of tensors but also develop algorithms  and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
 I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
 
-I have three years of work experience as a consultant in Statistics during which period I worked on over 100 projects from beginning to completion. I find joy in sharing the knowledge I have and deed so trough four years of teaching a wide variety of undergraduate and graduate level math and statistics courses.
+I have three years of work experience as a consultant in Statistics during which period I worked on over 100 projects from beginning to completion. I find joy in sharing the knowledge I have acquired and did so trough four years of teaching a wide variety of undergraduate and graduate level math and statistics courses.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
