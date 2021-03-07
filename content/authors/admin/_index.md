@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tina Lewis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: P.h.D student in Satistics and Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Purdue University
+  url: https://tinatl-lewislt.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include theoretical derivations of Tensor analyses and their application to Machine Learning. I have also worked on applied projects in Reinforcement Learning over the years and also have 3 years works of work expereince as a Consultant in applied Statistics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Tensor Analysis
+- Machine Learning
+- Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Purdue University
+    year: 2021
+  - course: MS in Mathematics
+    institution: University of Arkansas 
+    year: 2014
+  - course: BSc in Mathematics & Economics (double major)
+    institution: Westminster College 
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,13 +64,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tinat.lewisl@yahoo.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tina Lewis is a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. Her research interests include the theoretical analysis of tensors and their application to various machine learning methods, reinforcemnt learning and the design of statistical experiments. She has three years of work experience as a statsical consultant and has worked on over 100 projects from begining to completion. She also has over four years of experience teaching a wide variety of maths and statistics courses.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
