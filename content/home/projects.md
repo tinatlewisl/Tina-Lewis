@@ -29,9 +29,9 @@ content:
     tag: '*'
   - name: Engineering
     tag: Deep Learning
-  - name: Natural Science
+  - name: Natural Sciences
     tag: Demo  
-  - name: Social Science  
+  - name: Social Sciences  
     tag: Deep Learning
   - name: Health Sciences
     tag: Deep Learning
