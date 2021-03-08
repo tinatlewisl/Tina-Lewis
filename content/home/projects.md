@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Engineering
-    tag: Deep Learning
-  - name: Natural Sciences
+  - name: Engineering    
+    tag: Deep Learning  
+  - name: Natural Sciences  
     tag: Demo  
-  - name: Social Sciences  
-    tag: Deep Learning
-  - name: Health Sciences
-    tag: Deep Learning
+  - name: Social Sciences    
+    tag: Deep Learning  
+  - name: Health Sciences  
+    tag: Deep Learning  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
