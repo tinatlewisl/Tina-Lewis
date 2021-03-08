@@ -31,7 +31,7 @@ content:
     tag: Deep Learning
   - name: Natural Science
     tag: Demo  
-  - name: Social Science
+  - name: Social Science  
     tag: Deep Learning
   - name: Health Sciences
     tag: Deep Learning
