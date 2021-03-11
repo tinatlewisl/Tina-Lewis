@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Development and growth trends in angiotensin II-induced murine dissecting abdominal aortic aneurysms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
