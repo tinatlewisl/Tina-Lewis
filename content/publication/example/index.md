@@ -31,8 +31,8 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Physiological Reports*
+# publication_short: In *ICW*
 
 abstract: gggffggf  
 
