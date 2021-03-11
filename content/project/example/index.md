@@ -1,6 +1,6 @@
 ---
 title: Engineering Projects
-summary:  **Engineering Teamwork Ratings Quality Assessment**  
+summary: Engineering Teamwork Ratings Quality Assessment  
 tags:  
 - Engineering  
 date: "2016-04-27T00:00:00Z"
