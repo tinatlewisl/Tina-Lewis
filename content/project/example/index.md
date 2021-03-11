@@ -1,9 +1,8 @@
 ---
 title: Engineering Projects
-summary: select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjects A select number of engineering prjects. summary: A select number of engineering prjectse
-
+summary:  
 tags:  
-- Engineering
+- Engineering  
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
