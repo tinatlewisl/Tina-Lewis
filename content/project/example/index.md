@@ -29,20 +29,6 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
+A select number of statistical consulting work applied to engeineering projects.
 
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects
-A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.A select number of statistical consulting work applied to engeineering projects.A select number of statistical consulting work applied to engeineering projects.
-A select number of statistical consulting work applied to engeineering projects.
 
