@@ -33,8 +33,8 @@ content:
     tag: Natural Sciences  
   - name: Social Sciences    
     tag: Social Sciences   
-  - name: Health Sciences  
-    tag: Health Sciences  
+  - name: Other    
+    tag: Other    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
