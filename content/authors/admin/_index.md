@@ -6,7 +6,7 @@ title: Tina Lewis
 superuser: true
 
 # Role/position/tagline
-role: P.h.D student in Satistics and Machine Learning
+role: Ph.D student in Satistics and Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -61,14 +61,15 @@ social:
 email: "tinat.lewisl@yahoo.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations alogoritms. To this end I work on the theory of tensors but also develop algorithms and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
+I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations algorithms. To this end I work on the theory of tensors but also develop algorithms and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
 I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
 
-I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find geat joy in sharing the knowledge I have acquired over the years and did so through four years of teaching a wide variety of undergraduate and graduate level maths and statistics courses.
+I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find great joy in sharing the knowledge I have acquired over the years and did so through four years of teaching a wide variety of undergraduate and graduate level maths and statistics courses.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
