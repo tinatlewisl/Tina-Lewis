@@ -49,5 +49,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
----
-waht about here 
+--- 
