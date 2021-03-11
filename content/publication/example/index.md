@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2018-03-01T00:00:00Z"
 doi: "10.14814/phy2.13668"
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ summary: High-frequency ultrasound were used to collect data from angiotensin II
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -70,15 +70,15 @@ featured: true
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []  
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""  
+
 ---
 
 {{% callout note %}}
