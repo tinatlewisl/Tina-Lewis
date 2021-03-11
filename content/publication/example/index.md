@@ -6,12 +6,17 @@ title: "Development and growth trends in angiotensin II-induced murine dissectin
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Amelia R. Adelsperger  
+- Evan H. Phillips  
+- Bruce A. Craig  
+- Linden A. Green  
+- Michael P. Murphy  
+- Craig J. Goergen
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: "10.14814/phy2.13668"
@@ -23,7 +28,7 @@ publishDate: "2018-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
@@ -32,7 +37,7 @@ publication_short: In *ICW*
 abstract: gggffggf  
 
 # Summary. An optional shortened abstract.
-summary: kjjkjjjkkjkhjk  
+summary: High-frequency ultrasound were used to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.  
 
 tags: []
 
