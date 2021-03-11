@@ -29,10 +29,10 @@ publication_types: ["3"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract:  
+abstract: gggffggf  
 
 # Summary. An optional shortened abstract.
-summary:  
+summary: kjjkjjjkkjkhjk  
 
 tags: []
 
