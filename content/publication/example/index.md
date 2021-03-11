@@ -14,25 +14,25 @@ author_notes:
 - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.14814/phy2.13668"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Abdominal aortic aneurysms are pathological dilations that can suddenly rupture, causing more than 15,000 deaths in the U.S. annually. Current treatment focuses on observation until an aneurysm's size warrants surgical intervention. Thus, there is a need for therapeutic intervention to inhibit growth of smaller aneurysms. An experimental aneurysm model that infuses angiotensin II into apolipoprotein E-deficient mice is widely used to investigate underlying pathological mechanisms and potential therapeutics, but this model has two caveats: (1) aneurysms do not always form, and (2) aneurysm severity and growth is inconsistent among animals. Here we use high-frequency ultrasound to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status. Longitudinal ultrasound data were also acquired from mice with aneurysms to quantify aneurysm diameter, circumferential strain, blood flow velocity, aneurysm volume/length, and thrombus and open-false lumen volumes over 28 days. Measurements taken at aneurysm diagnosis were used with branching artery information to produce a multiple linear regression model to predict final aneurysm volume/length. All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: High-frequency ultrasound were used to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/29696811/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
