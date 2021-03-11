@@ -28,13 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: Engineering    
-    tag: Deep Learning  
+    tag: Engineering   
   - name: Natural Sciences  
-    tag: Demo  
+    tag: Natural Sciences  
   - name: Social Sciences    
-    tag: Deep Learning  
+    tag: Social Sciences   
   - name: Health Sciences  
-    tag: Deep Learning  
+    tag: Health Sciences  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
