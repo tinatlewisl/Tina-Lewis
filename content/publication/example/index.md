@@ -29,10 +29,10 @@ publication_types: ["3"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Abdominal aortic aneurysms are pathological dilations that can suddenly rupture, causing more than 15,000 deaths in the U.S. annually. Current treatment focuses on observation until an aneurysm's size warrants surgical intervention. Thus, there is a need for therapeutic intervention to inhibit growth of smaller aneurysms. An experimental aneurysm model that infuses angiotensin II into apolipoprotein E-deficient mice is widely used to investigate underlying pathological mechanisms and potential therapeutics, but this model has two caveats: (1) aneurysms do not always form, and (2) aneurysm severity and growth is inconsistent among animals. Here we use high-frequency ultrasound to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status. Longitudinal ultrasound data were also acquired from mice with aneurysms to quantify aneurysm diameter, circumferential strain, blood flow velocity, aneurysm volume/length, and thrombus and open-false lumen volumes over 28 days. Measurements taken at aneurysm diagnosis were used with branching artery information to produce a multiple linear regression model to predict final aneurysm volume/length. All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.  
+abstract:  
 
 # Summary. An optional shortened abstract.
-summary: High-frequency ultrasound were used to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.  
+summary:  
 
 tags: []
 
