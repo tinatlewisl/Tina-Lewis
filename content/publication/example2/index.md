@@ -29,7 +29,7 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physiological Reports*
+publication: In *Pharmacy Practice*
 # publication_short: In *ICW*
 
 abstract: gggffggf  
