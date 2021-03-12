@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2018-03-01T00:00:00Z"
+date: "2019-03-01T00:00:00Z"
 doi: "10.18549/PharmPract.2019.1.1319"
 
 # Schedule page publish date (NOT publication's date).
