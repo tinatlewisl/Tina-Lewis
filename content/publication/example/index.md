@@ -19,10 +19,10 @@ authors:
 # - "Equal contribution"
 
 date: "2018-03-01T00:00:00Z"
-doi: "10.14814/phy2.13668"
+doi: "10.18549/PharmPract.2019.1.1319"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-03-01T00:00:00Z"
+publishDate: "2019-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
