@@ -1,17 +1,15 @@
 ---
-title: "Development and growth trends in angiotensin II-induced murine dissecting abdominal aortic aneurysms"
+title: "Effect of the pharmacist-managed cardiovascular risk reduction services on diabetic retinopathy outcome measures"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Amelia R. Adelsperger  
-- Evan H. Phillips  
-- Bruce A. Craig  
-- Linden A. Green  
-- Michael P. Murphy  
-- Craig J. Goergen
+- Zachary A. Weber  
+- Palakpreet Kaur  
+- Amrita Hundal 
+- admin  
+- Ashay D. Bhatwadekar  
 
 # Author notes (optional)
 # author_notes:
@@ -19,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2018-03-01T00:00:00Z"
-doi: "10.14814/phy2.13668"
+doi: "10.18549/PharmPract.2019.1.1319"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-03-01T00:00:00Z"
