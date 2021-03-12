@@ -1,23 +1,25 @@
 ---
-title: "Effect of the pharmacist-managed cardiovascular risk reduction services on diabetic retinopathy outcome measures"
+title: "Reliability of the Indiana Supplemental Nutrition Assistance Program-Education (SNAP-Ed) Program Evaluation Survey (P04-074-19)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zachary A. Weber  
-- Palakpreet Kaur  
-- Amrita Hundal 
-- admin  
-- Ashay D. Bhatwadekar  
+- Rebecca Rivera  
+- McKenna Deckard  
+- Dennis Savaiano  
+- Krystal Lynch  
+- Melissa Maulding  
+- Hilda Ibriga  
+- Heather Eicher-Miller    
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-03-01T00:00:00Z"
-doi: "10.18549/PharmPract.2019.1.1319"
+date: "2019-05-01T00:00:00Z"
+doi: "10.1093/cdn/nzz051.P04-074-19"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-03-01T00:00:00Z"
@@ -29,7 +31,7 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Pharmacy Practice*
+publication: In *Current Developments in Nutrition*
 # publication_short: In *ICW*
 
 abstract: gggffggf  
@@ -47,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/29696811/'
+# url_pdf: ''
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
