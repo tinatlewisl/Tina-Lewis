@@ -27,7 +27,7 @@ item:
   date_end: "2019-05-01"
   date_start: "2018-10-01"
   description: A list and description of personal projects I worked on in Machine Learning.
-  organization: Coursera
+  organization: ""
   organization_url: ""
   title: Machine Learning Projects
   url: https://tinatl-lewislt.netlify.app/project/example/
