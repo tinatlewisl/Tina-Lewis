@@ -20,13 +20,11 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Contact Me
+    link: 'https://www.linkedin.com/in/tina-lewis-101316207/'
 
 # Site header
 
