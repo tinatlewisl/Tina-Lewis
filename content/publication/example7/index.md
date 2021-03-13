@@ -29,7 +29,7 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2016 IEEE Frontiers in Education Conference (FIE)*
+publication: In *2018 IEEE Frontiers in Education Conference (FIE)*
 # publication_short: In *ICW*
 
 abstract: gggffggf  
