@@ -28,7 +28,7 @@ item:
   date_start: "2018-10-01"
   description: ""
   organization: Coursera
-  organization_url: https://www.coursera.org
+  organization_url: ""
   title: Machine Learning Projects
   url: ""
 - certificate_url: https://www.edx.org
