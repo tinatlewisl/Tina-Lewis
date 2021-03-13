@@ -21,6 +21,7 @@ interests:
 - Tensor Analysis
 - Machine Learning
 - Reinforcement Learning
+- Statistical Inference
 
 # Education to show in About widget
 education:
