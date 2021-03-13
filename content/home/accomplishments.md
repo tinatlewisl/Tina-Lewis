@@ -7,10 +7,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Personal Projects'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Machine Learning  
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
@@ -37,14 +37,14 @@ item:
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
-  title: Reinforcement Learning  
-  url: ""  
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: Design of Statistical Experiments  
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
