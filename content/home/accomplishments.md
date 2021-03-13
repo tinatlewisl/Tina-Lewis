@@ -38,7 +38,7 @@ item:
   organization: edX
   organization_url: https://www.edx.org
   title: Reinforcement Learning  
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: ""  
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
