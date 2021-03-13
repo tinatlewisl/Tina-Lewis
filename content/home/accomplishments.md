@@ -24,18 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url:  
-  date_end: ""
-  date_start: "2018-10-01"
+  date_end: ""  
+  date_start: "2018-10-01"  
   organization: Coursera  
-  title: Machine Learning  
-- certificate_url: 
-  date_end: ""
-  date_start: "2018-03-01"
+  title: 'Machine Learning'  
+- certificate_url:  
+  date_end: ""  
+  date_start: "2018-03-01"  
   organization: edX  
-  title: Reinforcement Learning
-- certificate_url:    
+  title: 'Reinforcement Learning'  
+- certificate_url:  
   date_end: " "  
   date_start: "2017-07-01"  
-  organization: DataCamp
-  title: Design of Experiments  
+  organization: DataCamp  
+  title: 'Design of Experiments'  
 ---
