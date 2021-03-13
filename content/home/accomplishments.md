@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: "2019-05-01"
   date_start: "2018-10-01"
-  description: ""
+  description: A list and description of personal projects I worked on in Machine Learning.
   organization: Coursera
   organization_url: ""
   title: Machine Learning Projects
@@ -34,7 +34,7 @@ item:
 - certificate_url: ""
   date_end: "2019-12-15"
   date_start: "2019-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: A list and description of personal projects I worked on in Reinforcement Learning.
   organization: edX
   organization_url: ""
   title: Reinforcement Learning Projects
@@ -42,7 +42,7 @@ item:
 - certificate_url: ""
   date_end: "2021-03-12"
   date_start: "2016-07-01"
-  description: ""
+  description: A list and description of personal projects I worked on in Statistics.
   organization: DataCamp
   organization_url: ""
   title: Design of Statistical Experiments
