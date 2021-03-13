@@ -21,10 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 contact_links:
-  - icon: linkedin
-    icon_pack: fab
-    name: Contact Me
-    link: 'https://www.linkedin.com/in/tina-lewis-101316207/'
+  - icon: linkedin  
+    icon_pack: fab  
+    name: Contact Me  
+    link: 'https://www.linkedin.com/in/tina-lewis-101316207/'  
+    
 
 # Site header
 
