@@ -27,7 +27,7 @@ item:
   date_end: "2019-05-01"
   date_start: "2018-10-01"
   description: A list and description of personal projects I worked on in Machine Learning.
-  organization: ""
+  organization: ". ."
   organization_url: ""
   title: Machine Learning Projects
   url: https://tinatl-lewislt.netlify.app/project/example/
@@ -35,7 +35,7 @@ item:
   date_end: "2019-12-15"
   date_start: "2019-01-01"
   description: A list and description of personal projects I worked on in Reinforcement Learning.
-  organization: edX
+  organization: ". ."
   organization_url: ""
   title: Reinforcement Learning Projects
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -43,7 +43,7 @@ item:
   date_end: "2021-03-12"
   date_start: "2016-07-01"
   description: A list and description of personal projects I worked on in Statistics.
-  organization: DataCamp
+  organization: ". ."
   organization_url: ""
   title: Design of Statistical Experiments
   url: https://tinatl-lewislt.netlify.app/project/example/
