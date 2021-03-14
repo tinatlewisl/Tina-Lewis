@@ -21,7 +21,7 @@ feature:
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
 - description: Expertize
-  icon: lightbulb-on
+  icon: lightbulb
   icon_pack: fas
   name: Consultation statistisque, Conception de models de Machine Learning
 - description: Language
