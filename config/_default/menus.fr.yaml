@@ -22,7 +22,7 @@ main:
   - name: Projects Personels
     url: '#accomplishments'
     weight: 60
-  - name: Enseignment
+  - name: Enseignement
     url: uploads/resume.pdf
     weight: 70
   - name: Contacts
