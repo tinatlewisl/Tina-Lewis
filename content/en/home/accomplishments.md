@@ -30,7 +30,7 @@ item:
   organization: ""
   organization_url: ""
   title: Machine Learning Projects
-  url: https://tinatl-lewislt.netlify.app/project/example/
+  url: https://tinatl-lewislt.netlify.app/pproject/example/
 - certificate_url: ""
   date_end: "2019-12-15"
   date_start: "2019-01-01"
@@ -38,7 +38,7 @@ item:
   organization: ""
   organization_url: ""
   title: Reinforcement Learning Projects
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: https://tinatl-lewislt.netlify.app/pproject/example2/
 - certificate_url: ""
   date_end: "2021-03-12"
   date_start: "2016-07-01"
@@ -46,5 +46,5 @@ item:
   organization: ""
   organization_url: ""
   title: Design of Statistical Experiments
-  url: https://tinatl-lewislt.netlify.app/project/example/
+  url: https://tinatl-lewislt.netlify.app/pproject/example3/
 ---
