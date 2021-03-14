@@ -21,13 +21,13 @@ feature:
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
 - description: Expertize
-  icon: chart-line
+  icon: lightbulb-on
   icon_pack: fas
   name: Consultation statistisque, Conception de models de Machine Learning
 - description: Language
   icon: language
   icon_pack: fas
-  name: français, Anglais, Mooré
+  name: Français, Anglais, Mooré
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
