@@ -18,21 +18,21 @@ bio: My research interests include the theoretical analysis of tensors and their
 
 # Interests to show in About widget
 interests:
-- Tensor Analysis
+- Analyse Tensorielle
 - Machine Learning
 - Reinforcement Learning
-- Statistical Inference
+- Inference Statistique
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics
+  - course: PhD en Statistique
     institution: Purdue University
     year: 2021
-  - course: MS in Mathematics
+  - course: Master II en Mathematique
     institution: University of Arkansas 
     year: 2014
-  - course: BSc in Mathematics & Economics (double major)
+  - course: Bachelor en Mathematique & Economique (double filière)
     institution: Westminster College 
     year: 2011
 
