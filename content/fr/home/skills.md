@@ -9,22 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Competénces
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Computing
+- description: Logiciel
   icon: python
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
-- description: Compétences
+- description: Expertises
   icon: lightbulb
   icon_pack: fas
   name: Consultation statistisque, Conception de models de Machine Learning
-- description: Language
+- description: Langues
   icon: language
   icon_pack: fas
   name: Français, Anglais, Mooré
