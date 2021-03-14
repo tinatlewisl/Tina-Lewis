@@ -10,7 +10,7 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 20
-  - name: Expériences professionnelles
+  - name: Expériences Professionnelles
     url: '#experience'
     weight: 30
   - name: Publications
