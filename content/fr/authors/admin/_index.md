@@ -65,12 +65,11 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations algorithms. To this end I work on the theory of tensors but also develop algorithms and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
+Je suis Tina Lewis, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professor BC et du Professeur WS. Les sujets de rechrches sur lesquel je traivail actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
 
-I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
+J'ai également travaillé sur des projets appliqués dans le domaine du l'intelligence artificiel, plus précisément le reinforcement learning (l'apprentissage par renforcement) et j'aimerais poursuivre davantage des recherches dans ce domaine dans les années à venir.
 
-I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find great joy in sharing the knowledge I have acquired over the years and did so through four years of teaching a wide variety of undergraduate and graduate level maths and statistics courses.
-
+J'ai trois années d'expérience de travail en tant que consultante en statistiques au cours desquels j'ai eu l'opportunité de travailler sur plus de 50 projets du début à la fin. Je trouve une grande joie à partager les connaissances que j'ai acquises au fil des ans et je l'ai fait au cours de quatre années d'enseignement d'une grande variété de cours de mathématiques et de statistiques de premier et deuxième cycles d'université .
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
