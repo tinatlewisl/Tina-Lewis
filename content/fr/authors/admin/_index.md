@@ -65,11 +65,11 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-Je suis Tina Lewis, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professeur BC et du Professeur WS. Les sujets de rechrches sur lesquel je traivail actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
+Je suis Tina Lewis, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professeur BC et du Professeur WS. Les sujets de recherches sur lesquels je me consacre actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils, algorithmes et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
 
 J'ai également travaillé sur des projets appliqués dans le domaine du l'intelligence artificiel, plus précisément le reinforcement learning (l'apprentissage par renforcement) et j'aimerais poursuivre davantage des recherches dans ce domaine dans les années à venir.
 
 J'ai trois années d'expérience de travail en tant que consultante en statistiques au cours desquels j'ai eu l'opportunité de travailler sur plus de 50 projets du début à la fin. Je trouve une grande joie à partager les connaissances que j'ai acquises au fil des ans et je l'ai fait au cours de quatre années d'enseignement d'une grande variété de cours de mathématiques et de statistiques de premier et deuxième cycles d'université .
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Accéder à mon {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
