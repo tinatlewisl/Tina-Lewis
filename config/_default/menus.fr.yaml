@@ -10,22 +10,22 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 20
-  - name: Work Experience
+  - name: Expérience professionnelle
     url: '#experience'
     weight: 30
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Consulting Projects  
+  - name: Projets de Consultant  
     url: '#projects'  
     weight: 50
-  - name: Personal Projects
+  - name: Projects Personels
     url: '#accomplishments'
     weight: 60
-  - name: Teaching
+  - name: Enseignment
     url: uploads/resume.pdf
     weight: 70
-  - name: Contact
+  - name: Contacts
     url: '#contact'
     weight: 80
 
