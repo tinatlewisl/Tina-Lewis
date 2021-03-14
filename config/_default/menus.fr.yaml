@@ -19,7 +19,7 @@ main:
   - name: Projets de Consultant  
     url: '#projects'  
     weight: 50
-  - name: Projects Personels
+  - name: Projets Personels
     url: '#accomplishments'
     weight: 60
   - name: Enseignement
