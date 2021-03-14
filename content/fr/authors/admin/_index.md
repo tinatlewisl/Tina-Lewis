@@ -6,7 +6,7 @@ title: Tina Lewis
 superuser: true
 
 # Role/position/tagline
-role: Ph.D student in Satistics and Machine Learning
+role: Doctorante en Satistique et Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://tinatl-lewislt.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the theoretical analysis of tensors and their application to machine learning. I have also worked on applied projects in reinforcement learning over the years and also have 3 years of work experience as a statistics consultant.
+bio: Mes intérêts de recherche incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique. J'ai également travaillé sur des projets appliqués en apprentissage par renforcement au fil des ans et j'ai également 3 ans d'expérience professionnelle en tant que consultant en statistique.
 
 # Interests to show in About widget
 interests:
