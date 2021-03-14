@@ -23,7 +23,7 @@ twitter: ''
 email: test@example.org
 phone: 888 888 88 88
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
