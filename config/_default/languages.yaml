@@ -12,9 +12,9 @@ en:
 fr:
   languageCode: fr
   contentDir: content/fr
-  title: Hilda S Ibriga
+  title: Tina Lewis
   params:
-    description: Site description in Chinese...
+    description: ""
 #  menu:
 #    main:
 #      - name: 传
