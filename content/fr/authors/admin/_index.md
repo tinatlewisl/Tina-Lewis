@@ -32,7 +32,7 @@ education:
   - course: Master II en Mathematique
     institution: University of Arkansas 
     year: 2014
-  - course: Bachelor en Mathematique & Economique (double filière)
+  - course: Bachelor en Mathematique & Economie (double filière)
     institution: Westminster College 
     year: 2011
 
