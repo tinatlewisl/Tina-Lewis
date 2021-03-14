@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
-- description: Expertize
+- description: Expertise
   icon: lightbulb
   icon_pack: fas
   name: Statistics Consulting, Machine Learning models design
