@@ -21,11 +21,11 @@ feature:
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
 - description: Expertize
-  icon: camera-retro
+  icon: chart-line
   icon_pack: fas
   name: Consultation statistisque, Conception de models de Machine Learning
 - description: Language
-  icon: chart-line
+  icon: language
   icon_pack: fas
   name: français, Anglais, Mooré
 
