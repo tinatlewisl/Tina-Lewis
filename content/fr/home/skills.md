@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Computing
-  icon: r-project
+  icon: python
   icon_pack: fab 
   name: R, Python, Matlab, C, SQL, SAS
 - description: Expertize
   icon: camera-retro
   icon_pack: fas
-  name: Statistics Consulting, Machine Learning models design
+  name: Consultation statistisque, Conception de models de Machine Learning
 - description: Language
   icon: chart-line
   icon_pack: fas
-  name: English, French, Moore
+  name: français, Anglais, Mooré
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
