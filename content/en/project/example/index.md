@@ -72,13 +72,30 @@ CATME system users run analyses independently.
 * New tools are to be integrated into the CATME system which is currently deployed to more than 1 million
 users from 80 countries.  
 * * *  
-.class {
-  border-radius: 4px;
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#example1 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
 
-.circle {
-  border-radius: 50%;
-}  
+#example2 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+
+#example3 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+</style>
+</head>
+<body> 
 
 
 
