@@ -42,8 +42,11 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-
       }
+    .vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
   </style>
   </head>
   <body>
@@ -77,7 +80,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   </style>
   </head>
   <body>
-    <div class="boxed">
+    <div class="boxed vl">
       <span style="font-weight: bold;">Engineering Teamwork Ratings Quality Assessment</span>  
       <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018</span>  
       <ul>
