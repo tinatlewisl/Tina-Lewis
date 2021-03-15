@@ -62,7 +62,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   <hr>
    <div class="boxed">
     <span style="font-weight: bold;">Disease Status Prediction and Growth Trend of Abdominal Aortic Aneurysms</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">R | SAS</span>
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> | R | SAS |</span>
     <ul>
     <span style="font-size:13px;">
       <li> Used high frequency ultrasound aneurysm data to develop prediction models of both aneurysm formation and growth trend.</li>
