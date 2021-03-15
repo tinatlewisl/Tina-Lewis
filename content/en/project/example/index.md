@@ -71,7 +71,14 @@ CATME system users run analyses independently.
 * Run live demo of new method for CATME users from different countries.  
 * New tools are to be integrated into the CATME system which is currently deployed to more than 1 million
 users from 80 countries.  
-* * * 
+* * *  
+.class {
+  border-radius: 4px;
+}
+
+.circle {
+  border-radius: 50%;
+}  
 
 
 
