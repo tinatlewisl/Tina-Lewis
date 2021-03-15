@@ -48,7 +48,12 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
 }
 
 ul li::before {
-  color: lightgreen;
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
 }
   </style>
   </head>
