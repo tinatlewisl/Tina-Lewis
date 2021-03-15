@@ -73,29 +73,25 @@ CATME system users run analyses independently.
 users from 80 countries.  
 * * *  
 <!DOCTYPE html>
-<html>
-<head>
-<style> 
-#example1 {
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px;
-}
-
-#example2 {
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px #888888;
-}
-
-#example3 {
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px red;
-}
-</style>
-</head>
-<body> 
-
-
-
+<html lang="en">
+  <head>
+  <style>
+      /* The . with the boxed represents that it is a class */
+      .boxed {
+        border-style: ridge;  
+        border-radius: 5px;
+      }
+  </style>
+  </head>
+  <body>
+    <div class="boxed">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem quos esse
+      at. Eaque porro vel soluta vero labore. Eius possimus ipsum deleniti
+      perferendis quas perspiciatis reprehenderit adipisci fuga rerum velit.
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed minus
+      voluptatem consequatur fugiat excepturi reiciendis nulla! Modi dignissimos
+      molestiae perspiciatis commodi! Autem, deleniti neque aperiam excepturi
+      sunt corrupti ipsam voluptatum!
+    </div>
+  </body>
+</html>  
