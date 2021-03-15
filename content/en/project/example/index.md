@@ -81,6 +81,7 @@ users from 80 countries.
         border-style: outset;  
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
+        margin-right: 10px;
       }
   </style>
   </head>
