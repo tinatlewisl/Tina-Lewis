@@ -43,19 +43,10 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
       }
-    .vl {
-  ul {
-       list-style: none;
-      }
-     ul li::before {
-        content: "\2022";
+    .vl ul, li {
         color: red;
-        font-weight: bold;
-        display: inline-block; 
-        width: 1em;
-        margin-left: -1em;
       }
-}
+    
   </style>
   </head>
   <body>
