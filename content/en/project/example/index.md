@@ -32,7 +32,7 @@ external_link: ""
 ---
 This section contains a non-exhaustive list of Statistics consulting projects I worked on which subject matter relates to the field of engineering. Click to see the projects and their description. A link to the final project outcome is provided when the client allows for it.
 
-oses are <span style="color:grey; font-family:roboto; font-size:13px;">Last updated March,2021</span>
+oses are <span style="color:grey; font-family:sans-serif; font-size:13px;">Last updated March,2021</span>
 **Engineering Teamwork Ratings Quality Assessment**  
 Some Markdown text with <span style="color:grey">some *blue* text</span>.  
 oses are <span style="color:grey; font-family:roboto; font-size:13px;">red.</span>
