@@ -36,23 +36,24 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
 <html lang="en">
   <head>
   <style>
+      ul {
+       list-style: none;
+      }
+     ul li::before {
+        content: "\2022";
+        color: red;
+        font-weight: bold;
+        display: inline-block; 
+        width: 1em;
+        margin-left: -1em;
+      }
       /* The . with the boxed represents that it is a class */
       .boxed {
         border-style: outset;  
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-         ul {
-          list-style: none;
-          }
-         ul li::before {
-          content: "\2022";
-          color: red;
-          font-weight: bold;
-          display: inline-block; 
-          width: 1em;
-          margin-left: -1em;
-          }
+
       }
   </style>
   </head>
