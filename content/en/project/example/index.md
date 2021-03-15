@@ -43,7 +43,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
       }
-    .vl ul, li::before {
+    .vl ul li::before {
         color: red;
       }
     
