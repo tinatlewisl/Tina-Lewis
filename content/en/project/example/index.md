@@ -78,7 +78,7 @@ users from 80 countries.
   <style>
       /* The . with the boxed represents that it is a class */
       .boxed {
-        border-style: outer;  
+        border-style: outset;  
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
       }
