@@ -120,7 +120,9 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
     </div>
   </body>
 </html>  
-* * *   
+
+* * *  
+   
 <!DOCTYPE html>
 <html lang="en">
   <head>
