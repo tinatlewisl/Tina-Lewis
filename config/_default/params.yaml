@@ -34,7 +34,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: false
+  show_logo: true
   show_language: true
   show_day_night: true
   show_search: false
@@ -129,4 +129,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
