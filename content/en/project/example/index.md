@@ -62,13 +62,12 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   <hr>
    <div class="boxed">
     <span style="font-weight: bold;">Disease Status Prediction and Growth Trend of Abdominal Aortic Aneurysms</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">R,SAS</span>
     <ul>
     <span style="font-size:13px;">
       <li> Used high frequency ultrasound aneurysm data to develop prediction models of both aneurysm formation and growth trend.</li>
       <li> Used a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.</li>
       <li> Validated model performance through leave one out cross validation prediction accuracy, ROC curve, specifcity and sensitivity analysis.</li>
-      <li> Paper submitted to the Journal of Cardiovascular Research (January 2017).</li>
       </span>  
       </ul>
      </div>
