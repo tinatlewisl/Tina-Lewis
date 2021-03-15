@@ -42,17 +42,6 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-          ul {
-       list-style: none;
-      }
-     ul li::before {
-        content: "\2022";
-        color: red;
-        font-weight: bold;
-        display: inline-block; 
-        width: 1em;
-        margin-left: -1em;
-      }
       }
    
   </style>
