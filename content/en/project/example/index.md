@@ -59,7 +59,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
       </span>  
       </ul>
     </div>
-  
+  <hr>
    <div class="boxed">
     <span style="font-weight: bold;">Engineering Teamwork Ratings Quality Assessment</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Engineering Education </span>  
