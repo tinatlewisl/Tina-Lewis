@@ -71,6 +71,18 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
       </span>  
       </ul>
      </div>
+  <hr>
+   <div class="boxed">
+    <span style="font-weight: bold;">Effect of Insurance Providers Network Graph Measures on Patient Data.</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> | R | SAS |</span>
+    <ul>
+    <span style="font-size:13px;">
+      <li> Analysis of a 5.5 years longitudinal health claim data trough a provider/patient social network analysis .</li>
+      <li> Investigated the effect of providers network graphs measures (degree, centrality and betweeness) on very sparse patient level count data.</li>
+      <li> Modelled the provider network graph effects using a zero inflated Poisson model
+      <li> Established the covariance structure of the various models through a Generalized Estimating Equation (GEE) method to caputure the depentence between patients in the same network clusters.</li>
+      </span>  
+      </ul>
+     </div>
   </body>
 </html>  
-
