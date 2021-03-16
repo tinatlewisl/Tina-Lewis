@@ -1,8 +1,8 @@
 ---
-title: Engineering Projects
+title: Machine Learning Projects
 summary:     
 tags:  
-- Engineering  
+- ML  
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,7 +30,7 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This section contains a non-exhaustive list of Statistics consulting projects I worked on which subject matter relates to the field of engineering. A link to the final project outcome is provided when the client allows for it.
+This page contains descriptions of a collections of projects I worked on over the course of my graduate studies. This page will be updated with the different projects codes in the near future, as well as R packages that I am in the process of building for tensor data analysis.
 
  <!DOCTYPE html>
 <html lang="en">
@@ -39,6 +39,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
       /* The . with the boxed represents that it is a class */
       .boxed {
         border-style: outset;  
+        color: lightgrey;
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
@@ -49,13 +50,13 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   <body>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Analysis of Crew Members Performance in NASA <a href=" https://www.nasa.gov/ames/basalt"> BASALT </a> Mars Simulations.</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> August 2016 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
+    <span style="font-weight: bold;">Sentiment Analysis of Amazon, IMDb and Yelp Data </span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> August 2016 -- May 2019</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Analysis of astraunots live physiological monitoring data and performance obtained during extravehicular activity (EVA) in BASALT Mars simulations .</li>
-      <li> Built numerous non-parametric models for evaluating crew health and performance and comparing crew physiological data distributions.</li>
-      <li> Assisted client with data preprocessing, code writting for models, results interpratation and report.</li>
+      <li> Performed sentiment analysis on customers and users reviews data from Amazon, IMDb, and Yelp.</li>
+      <li> Trained a Multinomial Naive Bayes classifier to distinguish between positive and negative customer reviews.</li>
+      <li> Wrote a Python program which reads in reviews, performs data cleaning and feature extraction and for each review decides whether it holds a positive or a negative sentiment.</li>
       </span>  
       </ul>
      </div>
