@@ -39,7 +39,7 @@ This page contains descriptions of a collections of projects I worked on over th
       /* The . with the boxed represents that it is a class */
       .boxed {
         border-style: outset;  
-        background-color: 99FF99;
+        background-color: rgb(245,245,245);
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
