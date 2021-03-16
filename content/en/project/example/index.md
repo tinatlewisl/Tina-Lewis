@@ -61,7 +61,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
      </div>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Quantifying Insurance Providers Network Graph Measures' Effect on Patient Data</span>  
+    <span style="font-weight: bold;">Quantifying Insurance Providers Network Graphs Effect on Patient Data</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> January 2017 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS | SQL </span>
     <ul>
     <span style="font-size:13px;">
