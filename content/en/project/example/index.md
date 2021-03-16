@@ -49,7 +49,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   <body>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Analysis of Crew Members Performance in <a href=" https://www.nasa.gov/ames/basalt"> BASALT </a> Mars Simulations.</span>  
+    <span style="font-weight: bold;">Analysis of Crew Members Performance in NASA <a href=" https://www.nasa.gov/ames/basalt"> BASALT </a> Mars Simulations.</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> August 2016 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
     <ul>
     <span style="font-size:13px;">
