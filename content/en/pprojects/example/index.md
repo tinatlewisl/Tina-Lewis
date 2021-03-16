@@ -62,17 +62,14 @@ This page contains descriptions of a collections of projects I worked on over th
      </div>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Quantifying Insurance Providers Network Graphs Effect on Patient Data</span>  
+    <span style="font-weight: bold;">Detecting Quantitative Trait Loci using Bayesian Lasso Hierarchical Model</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> January 2017 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS | SQL </span>
     <ul>
     <span style="font-size:13px;">
-Locating and Quantifying the Eect of QTL using EM Algorithm and Bayesian Lasso Method
-<li> Implemented an EM algorithm in R which sequentially locates and estimates the magnitude of the eects of
-176 markers on blood pressure in mice.
-<li>  Performed a permutation test to compute the critical value for the test statistics.
-<li>  Used a hierarchical model approach with a non-informative prior on the tuning parameter to implementBayesian Lasso in R which allowed for simultaneously testing the location and effect of all markers at once.</li>
-<li>  Used a Gibb sampler to sample from the full conditional posterior of 341 parameters and hyper-parameters.</li>
-      <li> Assisted client with code writting for models and results interpretation and reporting.</li>
+      <li> Implemented an EM algorithm in R which sequentially locates and estimates the magnitude of the effects of 176 markers on blood pressure in mice.</li>
+      <li>  Performed a permutation test to compute the critical value for the test statistics.</li>
+      <li>  Used a hierarchical model approach with a non-informative prior on the tuning parameter to implementBayesian Lasso in R which allowed for simultaneously testing the location and effect of all markers at once.</li>
+      <li>  Used a Gibb sampler to sample from the full conditional posterior of 341 parameters and hyper-parameters.</li>
       </span>  
       </ul>
      </div>
