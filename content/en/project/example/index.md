@@ -79,9 +79,21 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
     <span style="font-size:13px;">
       <li> Analysis of a 5.5 years longitudinal health claim data trough a provider/patient social network analysis .</li>
       <li> Investigated the effect of providers network graphs measures (degree, centrality and betweeness) on very sparse patient level count data.</li>
-      <li> Modelled the provider network graph effects using a zero inflated Poisson model
+      <li> Modelled the provider network graph effects using a zero inflated Poisson model.</li>
       <li> Established the covariance structure of the various models through a Generalized Estimating Equation (GEE) method to caputure the depentence between patients in the same network clusters.</li>
-      <li> Used boostrap method to compute confidence region of various statistics.
+      <li> Used boostrap method to compute confidence region of various statistics.</li>
+      </span>  
+      </ul>
+     </div>
+  <hr>
+   <div class="boxed">
+    <span style="font-weight: bold;">Effect of Insurance Providers Network Graph Measures on Patient Data.</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">May 2016 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS | </span>
+    <ul>
+    <span style="font-size:13px;">
+      <li> Analysis of astraunots live physiological monitoring data and performance obtained during extravehicular activity (EVA) in BASALT Mars simulations .</li>
+      <li> Built numerous non-parametric models for evaluating crew health and performance and comparing crew physiological data distributions.</li>
+      <li> Assisted client with data preprocessing, code writting for model.</li>
       </span>  
       </ul>
      </div>
