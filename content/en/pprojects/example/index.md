@@ -79,8 +79,12 @@ This page contains descriptions of a collections of projects I worked on over th
     <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Used high frequency ultrasound aneurysm data to develop prediction models of both aneurysm formation and growth trend.</li>
-      <li> Used a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.</li>
+Detecting Fraudulent Credit Card Transactions using Weighted Logistic Regression
+ Used credit card transactions data from a major bank to train a logistic regression for detecting fraudulent
+transactions in Python.
+ Performed data cleaning and feature selections.
+ Applied L2 regularization on logistic regression and adjusted for unbalanced number of fraudulent and
+non-fraudulent cases in training data using weights to improve classier performance and reduce bias.
       <li> Validated model performance through leave one out cross validation prediction accuracy, ROC curve, specifcity and sensitivity analysis.</li>
       </span>  
       </ul>
