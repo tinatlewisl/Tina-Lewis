@@ -63,7 +63,7 @@ This page contains descriptions of a collections of projects I worked on over th
   <hr>
    <div class="boxed">
     <span style="font-weight: bold;">Detecting Quantitative Trait Loci using Bayesian Lasso Hierarchical Model</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> January 2017 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS | SQL </span>
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> December 2017 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R </span>
     <ul>
     <span style="font-size:13px;">
       <li> Implemented an EM algorithm in R which sequentially locates and estimates the magnitude of the effects of 176 markers on blood pressure in mice.</li>
