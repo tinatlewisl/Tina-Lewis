@@ -88,12 +88,12 @@ This page contains descriptions of a collections of machine learning and statist
   <hr>
    <div class="boxed">
     <span style="font-weight: bold;">QTL Mapping of Lipid Profiles in Mouse</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R|QTL Cartographer </span>
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R|QTL Cartographer</span>
     <ul>
     <span style="font-size:13px;">
-     <li> Performed QTL mapping to identify QTL associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
+     <li> Performed QTL mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
      <li> Estimated genetic map in R using the two-point algorithm, Rapid Chain Delineation (RCD).</li>
-     <li> Conducted a permutation test to determine  the significance threshold for interval and composite interval mapping.</li>
+     <li> Conducted a permutation test to determine the significance threshold for interval and composite interval mapping.</li>
       </span>  
       </ul>
      </div>
