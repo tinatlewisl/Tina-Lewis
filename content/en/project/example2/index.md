@@ -1,5 +1,5 @@
 ---
-title: Health and Natural Science Consulting Projects
+title: Health and Natural Sciences Consulting Projects
 summary:     
 tags:  
 - Health Sciences  
