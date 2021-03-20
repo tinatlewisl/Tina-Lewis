@@ -86,12 +86,12 @@ This page contains descriptions of a collections of machine learning and statist
       </ul>
      </div>
   <hr>
-   <div class="boxed">
-    <span style="font-weight: bold;">QTL Mapping of Lipid Profiles in Mouse</span>  
+    <div class="boxed">
+    <span style="font-weight: bold;"><a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> Mapping of Lipid Profiles in Mouse</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R|QTL Cartographer</span>
     <ul>
     <span style="font-size:13px;">
-     <li> Performed QTL mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
+     <li> Performed <a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
      <li> Estimated genetic map in R using the two-point algorithm, Rapid Chain Delineation (RCD).</li>
      <li> Conducted a permutation test to determine the significance threshold for interval and composite interval mapping.</li>
       </span>  
