@@ -29,7 +29,7 @@ item:
   description: A list and description of personal projects I worked on in Machine Learning.
   organization: ""
   organization_url: ""
-  title: Machine Learning Projects
+  title: Machine Learning & Statistics Projects
   url: https://tinatl-lewislt.netlify.app/pprojects/example/
 - certificate_url: ""
   date_end: "2019-12-15"
