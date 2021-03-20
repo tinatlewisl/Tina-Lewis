@@ -38,13 +38,5 @@ item:
   organization: ""
   organization_url: ""
   title: Reinforcement Learning Projects
-  url: https://tinatl-lewislt.netlify.app/pprojects/example2/
-- certificate_url: ""
-  date_end: "2021-03-12"
-  date_start: "2016-07-01"
-  description: A list and description of personal projects I worked on in Statistics.
-  organization: ""
-  organization_url: ""
-  title: Design of Statistical Experiments
-  url: https://tinatl-lewislt.netlify.app/pprojects/example3/
+  url: https://tinatl-lewislt.netlify.app/pprojects/example2/  
 ---
