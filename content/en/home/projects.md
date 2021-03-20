@@ -30,7 +30,9 @@ content:
   - name: Engineering    
     tag: Engineering   
   - name: Natural Sciences  
-    tag: Natural Sciences  
+    tag: Natural Sciences 
+  - name: Health Sciences  
+    tag: Health Sciences  
   - name: Social Sciences    
     tag: Social Sciences   
   - name: Other    
