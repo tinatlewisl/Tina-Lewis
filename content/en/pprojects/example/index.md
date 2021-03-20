@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Projects
+title: Machine Learning & Statistics Projects
 summary:     
 tags:  
 - ML  
@@ -30,7 +30,7 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This page contains descriptions of a collections of projects I worked on over the course of my graduate studies. This page will be updated with the different projects codes in the near future, as well as R packages that I am in the process of building for tensor data analysis.
+This page contains descriptions of a collections of machine learning and statistics projects I worked on over the course of my graduate studies. This page will be updated with the different projects codes on github in the near future, as well as R packages that I am in the process of building for tensor data analysis.
 
  <!DOCTYPE html>
 <html lang="en">
