@@ -50,13 +50,13 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
   <body>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Analysis of Crew Members Performance in NASA <a href=" https://www.nasa.gov/ames/basalt"> BASALT </a> Mars Simulations.</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> August 2016 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
+    <span style="font-weight: bold;"> Influence of Weed Height on Oxin Herbicide Efficacy</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> October 2015 -- May 2017 &#183 Botany and Plant Pathology</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Analysis of astraunots live physiological monitoring data and performance obtained during extravehicular activity (EVA) in BASALT Mars simulations .</li>
-      <li> Built numerous non-parametric models for evaluating crew health and performance and comparing crew physiological data distributions.</li>
-      <li> Assisted client with data preprocessing, code writting for models, results interpratation and report.</li>
+      <li> Used a factorial design within a randomized control block design to model relationship between treatment and horseweed height.</li>
+      <li> Conducted a Dose Response statistical (<a href="https://www.ncbi.nlm.nih.gov/books/NBK538269/analysis"> ED50 </a> ) to study efficacy of 3 herbicides for controlling horseweed plants.</li>
+      <li> Wrote function which estimates the confidence intervals for the difference in dose response (ED50) using boostrap method.</li>
       </span>  
       </ul>
      </div>
