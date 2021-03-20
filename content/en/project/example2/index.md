@@ -2,8 +2,8 @@
 title: Health and Natural Science Consulting Projects
 summary:     
 tags:  
-- Health Science  
-- Natural Science    
+- Health Sciences  
+- Natural Sciences    
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
