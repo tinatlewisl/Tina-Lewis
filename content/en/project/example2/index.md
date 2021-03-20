@@ -55,7 +55,7 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
     <ul>
     <span style="font-size:13px;">
       <li> Used a factorial design within a randomized control block design to model relationship between treatment and horseweed height.</li>
-      <li> Conducted a Dose Response statistical (<a href="https://www.ncbi.nlm.nih.gov/books/NBK538269/analysis"> ED50 </a> ) to study efficacy of 3 herbicides for controlling horseweed plants.</li>
+      <li> Conducted a Dose Response statistical analysis (<a href="https://www.ncbi.nlm.nih.gov/books/NBK538269/"> ED50 </a> ) to study efficacy of 3 herbicides for controlling horseweed plants.</li>
       <li> Wrote function which estimates the confidence intervals for the difference in dose response (ED50) using boostrap method.</li>
       </span>  
       </ul>
