@@ -66,8 +66,8 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
     <br><span style="color:grey; font-family:roboto; font-size:13px;">  August 2018 -- April 2019 &#183 Pharmacy </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
     <ul>
     <span style="font-size:13px;">
-      <li>  Performed a retrospective case-control study data analysis of patients with diabetes seen/not seen by pharmacists to determine the potential role of pharmacists in DR progression</li>
-      <li>  Wrote code to automate data retreival, cleaning and preprocessing from REDcap database</li>
+      <li>  Performed a retrospective case-control study data analysis of patients with diabetes seen/not seen by pharmacists to determine the potential role of pharmacists in DR progression.</li>
+      <li>  Wrote code to automate data retreival, cleaning and preprocessing from REDcap database.</li>
       <li>  Conducted analysis comparing control and treatment group distribution. </li>
       <li>  Modelled the odds of rethinopathy worsening in control and treatment groups using a weigthed logistic regression controlling for demographic and health background variables.</li>
      <li> Conducted power analysis to determine sample size for a follow-up prospective case-control study.</li>
@@ -76,13 +76,13 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
      </div>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Disease Status Prediction and Growth Trend of Abdominal Aortic Aneurysms</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2017 -- May 2018 &#183 Biomedical Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
+    <span style="font-weight: bold;">Examining the Effect of <a href="https://en.wikipedia.org/wiki/Structural_priming#:~:text=Structural%20priming%20is%20a%20form,in%20the%20field%20of%20psycholinguistics."> Structural Priming </a> in Young, Senior and Aphasic Speakers</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">August 2018 -- December 2018 &#183 Speech Language & Hearing Sciences </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Used high frequency ultrasound aneurysm data to develop prediction models of both aneurysm formation and growth trend.</li>
-      <li> Used a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.</li>
-      <li> Validated model performance through leave one out cross validation prediction accuracy, ROC curve, specifcity and sensitivity analysis.</li>
+      <li> Used a mixed effect logistic regression with maximal random effect to model structural priming effect on three groups of speakers.</li>
+      <li> Use contrasts to compare the effect of transitive, dataive and locative structural priming between different speaker groups.</li>
+      <li> Conducted sample size estimation for a follow-up repeated measure study design. </li>
       </span>  
       </ul>
      </div>
