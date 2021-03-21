@@ -71,10 +71,6 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
       <li>  Conducted analysis comparing control and treatment group distribution. </li>
       <li>  Modelled the odds of rethinopathy worsening in control and treatment groups using a weigthed logistic regression controlling for demographic and health background variables.</li>
      <li> Conducted power analysis to determine sample size for a follow-up prospective case-control study.</li>
-      
-      <li> Established the covariance structure of the various models through a Generalized Estimating Equation (GEE) method to caputure the depentence between patients in the same network clusters.</li>
-      <li> Used boostrap method to compute confidence region of various statistics.</li>
-      <li> Assisted client with code writting for models and results interpretation and reporting.</li>
       </span>  
       </ul>
      </div>
