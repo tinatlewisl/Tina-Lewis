@@ -62,13 +62,16 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
      </div>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Quantifying Insurance Providers Network Graphs Effect on Patient Data</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> January 2017 -- May 2019 &#183 Industrial Engineering</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS | SQL </span>
+    <span style="font-weight: bold;">Effect of the Pharmacist-managed Cardiovascular Risk Reduction Services on Diabetic Retinopathy (DR) Outcome Measures</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;">  August 2018 -- April 2019 &#183 Pharmacy </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | SAS </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Analysis of a 5.5 years longitudinal health claim data trough a provider/patient social network analysis.</li>
-      <li> Investigated the effect of providers network graphs measures (degree, centrality and betweeness) on very sparse patient level count data.</li>
-      <li> Modelled the provider network graph effects using a zero inflated Poisson model.</li>
+      <li>  Performed a retrospective case-control study data analysis of patients with diabetes seen/not seen by pharmacists to determine the potential role of pharmacists in DR progression</li>
+      <li>  Wrote code to automate data retreival, cleaning and preprocessing from REDcap database</li>
+      <li>  Conducted analysis comparing control and treatment group distribution. </li>
+      <li>  Modelled the odds of rethinopathy worsening in control and treatment groups using a weigthed logistic regression controlling for demographic and health background variables.</li>
+     <li> Conducted power analysis to determine sample size for a follow-up prospective case-control study.</li>
+      
       <li> Established the covariance structure of the various models through a Generalized Estimating Equation (GEE) method to caputure the depentence between patients in the same network clusters.</li>
       <li> Used boostrap method to compute confidence region of various statistics.</li>
       <li> Assisted client with code writting for models and results interpretation and reporting.</li>
