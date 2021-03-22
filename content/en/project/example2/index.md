@@ -86,6 +86,18 @@ This section contains a non-exhaustive list of Statistics consulting projects I 
       </span>  
       </ul>
      </div>
+   <hr>
+  	  <div class="boxed">
+      <span style="font-weight: bold;">Understanding the production of copula ser and estar in Spanish and Catalan</span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> July 2019 --  August 2019 &#183 Linguistics </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> SAS </span>
+      <ul>
+      <span style="font-size:13px;">
+      <li> Used a generalized linear mixed effect model (GLMM) with logit link to model the odds of choosing the copula ser or estar in various context in Catalan..</li>   
+      <li> Fitted a logistic regression with the bayesian Firth's Penalized likelihood method to model use of ser and estar as rare events in ceratin Spanish sentence context..</li>   
+      <li> Permoded data preprocessing, code writting and helped client with reporting results.</li>  
+      </span>  
+      </ul>
+    </div>
   <hr>
 	    <div class="boxed">
       <span style="font-weight: bold;">Validating New Electromyography (EMG) Sensors for Muscle Performance during Swallowing</span>  
