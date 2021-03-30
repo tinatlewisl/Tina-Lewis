@@ -23,7 +23,7 @@ main:
     url: '#accomplishments'
     weight: 60
   - name: Teaching
-    url: uploads/resume.pdf
+    url: uploads/teaching.pdf
     weight: 70
   - name: Contact
     url: '#contact'
