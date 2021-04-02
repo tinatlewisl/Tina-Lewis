@@ -52,7 +52,7 @@ experience:
         * Modelled Machine learning algorithms to assist various product teams decisions.  
 
   - title: Statistics Consultant
-    company: Purdue Statistical Consultant Service 
+    company: Purdue Statistical Consulting Service 
     company_url: 'https://www.stat.purdue.edu/scs/index.html'
     location: West Lafayette, IN
     date_start: '2015-08-15'
