@@ -48,8 +48,11 @@ experience:
     description: |2-  
         Responsibilities include:    
         
-        * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.  
-        * Modelled Machine learning algorithms to assist various product teams decisions.  
+        * Conducted comparative research on two competing model agnostic machine learning interpretability methods [Lime](https://arxiv.org/pdf/1602.04938v1.pdf) and [Anchor](https://ojs.aaai.org/index.php/AAAI/article/view/11491/11350).   
+        * Worked on integrating Lime into the existing machine learning model for predicting account churn which allowed for  
+        *  Identify features which which explain high churning probability for a given account  
+        *  facilitate understanding and actionability for the business team  
+        *  Co-wrote documentation for the implementation and integration of Lime into the account churning model      
 
   - title: Statistics Consultant
     company: Purdue Statistical Consulting Service 
