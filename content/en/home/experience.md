@@ -34,9 +34,10 @@ experience:
         Responsibilities include:  
         
         * Supervising a group of 12 TAs  
-        * Co-writting projects  
-        * Holding office hours  
-        * Contributing to the DataMine example book
+        * Organized and ran TA training meetings  
+        * Contributed to writing, reviewing, and editing all course projects  
+        * Held office hours and led projects grading meetings  
+        * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 
   - title: Data Science Intern
     company: Asana 
