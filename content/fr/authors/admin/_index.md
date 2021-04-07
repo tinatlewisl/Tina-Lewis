@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tina Lewis
+title: Hilda Ibriga  #Tina Lewis
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,7 +65,8 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-Je suis Tina Lewis, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professeur BC et du Professeur WS. Les sujets de recherches sur lesquels je me consacre actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils, algorithmes et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
+Je suis Hilda Ibriga, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professeur BC et du Professeur WS. Les sujets de recherches sur lesquels je me consacre actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning).  
+Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils, algorithmes et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
 
 J'ai également travaillé sur des projets appliqués dans le domaine du l'intelligence artificiel, plus précisément le reinforcement learning (l'apprentissage par renforcement) et j'aimerais poursuivre davantage des recherches dans ce domaine dans les années à venir.
 
