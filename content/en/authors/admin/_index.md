@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tina Lewis
+title: Hilda Ibriga  #Tina Lewis
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,11 +65,12 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-I am Tina Lewis, a PhD student in statistics at Purdue University working under the supervision of Dr. BC and Dr. WS. My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations algorithms. To this end I work on the theory of tensors but also develop algorithms and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
+I am Hilda Ibriga, currently a PhD student in Statistics at Purdue University, working under the supervision of Prof. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) and Dr. [Wei Sun](https://web.ics.purdue.edu/~sun244/).  
+My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery algorithms for big data and personalized recommendations algorithms. To this end my PhD research is centered around the theory of tensors but also in developping algorithms and tools which facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
 I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
 
-I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find great joy in sharing the knowledge I have acquired over the years and did so through four years of teaching a wide variety of undergraduate and graduate level maths and statistics courses.
+I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find great joy in sharing the knowledge I have acquired over the years and I have been fortunate to do so through four years of teaching a wide variety of undergraduate and graduate level Statistics and Maths courses.
 
 
 
