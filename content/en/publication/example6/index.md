@@ -7,6 +7,7 @@ title: "Statistical Inference on Convariate-assisted Sparse Tensor Completion an
 authors:
 - admin  
 - Wei Sun  
+- Bruce Craig    
 
 # Author notes (optional)
 # author_notes:
