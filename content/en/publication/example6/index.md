@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference on Convariate-assisted Sparse Tensor Completion and applications on Network Recovery"
+title: "Statistical Inference on Convariate-assisted Sparse Tensor Completion and application in Ads recommendation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: *In progress*
+publication: In *progress*  
 # publication_short: In *ICW*
 
 abstract: gggffggf  
