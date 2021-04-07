@@ -26,7 +26,7 @@ publishDate: "2018-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Review*  
+publication: Under *review*  
 # publication_short: *Under Review*
 
 abstract: gggffggf  
