@@ -6,7 +6,7 @@ title: "Covariate-assisted Sparse Tensor Completion and Applications to Advertis
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin  
-- W S  
+- Wei Sun  
 
 # Author notes (optional)
 # author_notes:
@@ -27,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *JASA*
-# publication_short: In *ICW*
+# publication_short: *Under Review*
 
 abstract: gggffggf  
 
