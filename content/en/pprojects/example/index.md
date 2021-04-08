@@ -44,11 +44,23 @@ This page contains descriptions of a collections of machine learning and statist
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-      }
-   
+      }  
+    
   </style>
   </head>
   <body>
+  <hr>
+   <div class="boxed">
+    <span style="font-weight: bold;"> Improving Advertisement Sparse Tensors Completion </span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> June 2020 -- December 2020</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python | Matlab </span>
+    <ul>
+    <span style="font-size:13px;">
+      <li> COSTCO to an advertisement dataset consisting of a CTR tensor and ad covariate matrix, leading.</li>
+      <li> to 23% accuracy improvement over the baseline.</li>
+      <li> Wrote a Python program which reads in reviews, performs data cleaning and feature extraction and for each review decides whether it holds a positive or a negative sentiment.</li>
+      </span>  
+      </ul>
+     </div>
   <hr>
    <div class="boxed">
     <span style="font-weight: bold;">Sentiment Analysis of Amazon, IMDb and Yelp Data </span>  
