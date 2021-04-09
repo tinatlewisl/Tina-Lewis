@@ -51,13 +51,13 @@ This page contains descriptions of a collections of machine learning and statist
   <body>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;"> Improving Advertisement Sparse Tensors Completion </span>  
+    <span style="font-weight: bold;"> Improving Online Advertisement Sparse Tensors Completion </span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> June 2020 -- December 2020</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python | Matlab </span>
     <ul>
     <span style="font-size:13px;">
-      <li> COSTCO to an advertisement dataset consisting of a CTR tensor and ad covariate matrix, leading.</li>
-      <li> to 23% accuracy improvement over the baseline.</li>
-      <li> Wrote a Python program which reads in reviews, performs data cleaning and feature extraction and for each review decides whether it holds a positive or a negative sentiment.</li>
+      <li> Implemented COSTCO algorithm on advertisement CTR tensor data collected over a 2 months peroid from a leading internet company.</li>
+      <li> Conducted data preprocessing and to yeld a 1000 x 140 x 3 (User X Ad X device) sparse CTR tensor trainign dataset with 98% of mising entries and 40% sparsity level.</li>
+      <li> Compared CTR entry recovery performance of COSTCO on test data to that of standard completion algorithms which yielded 23% improvemnent in recovery accuracy.</li>
       </span>  
       </ul>
      </div>
@@ -101,7 +101,7 @@ This page contains descriptions of a collections of machine learning and statist
   <hr>
     <div class="boxed">
     <span style="font-weight: bold;"><a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> Mapping of Lipid Profiles in Mouse</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R|QTL Cartographer</span>
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R | QTL Cartographer</span>
     <ul>
     <span style="font-size:13px;">
      <li> Performed <a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
