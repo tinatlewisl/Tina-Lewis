@@ -55,9 +55,9 @@ This page contains descriptions of a collections of machine learning and statist
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> June 2020 -- December 2020</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python | Matlab </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Implemented COSTCO algorithm on advertisement CTR tensor data collected over a 2 months peroid from a leading internet company.</li>
-      <li> Conducted data preprocessing and to yeld a 1000 x 140 x 3 (User X Ad X device) sparse CTR tensor trainign dataset with 98% of mising entries and 40% sparsity level.</li>
-      <li> Compared CTR entry recovery performance of COSTCO on test data to that of standard completion algorithms which yielded 23% improvemnent in recovery accuracy.</li>
+      <li> Implemented <a href="https://arxiv.org/pdf/2103.06428.pdf"> COSTCO </a> algorithm on advertisement CTR tensor data collected over a 2 months period from a leading internet company.</li>
+      <li> Conducted data preprocessing to yield a  1000 x 140 x 3 (User x Ad x Device) sparse CTR tensor dataset with 98% of mising entries and 40% sparsity level.</li>
+      <li> Compared CTR tensor entries recovery performance of COSTCO on test data to that of standard completion algorithms which yielded 23% improvemnent in recovery accuracy.</li>
       </span>  
       </ul>
      </div>
