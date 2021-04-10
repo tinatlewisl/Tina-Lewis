@@ -87,7 +87,7 @@ This page contains descriptions of a collections of machine learning, reinforcem
       <li> Used a repertoire of 3888 unique artists and 972 users to predict user playlist sequence after sequence of 29 songs.</li>
       <li> Trained a word2vec skipgram and LSTM model to generate sequencial predictions. </li>
       <li> Project won second price in in-class (CS 573) Kaggle competition among 20+ competing groups.
-      <li> Detail about this project and code can be found on my github page <a href="https://github.com/IbrigaHilda/Projects/blob/main/Reinforcement%20Learning/Simulation_Assessing_Global_Convergence_of_Policie_Gradient.ipynb"> here </a>.
+      <li> Detail about this project and code can be found on my github page <a href="https://github.com/IbrigaHilda/Projects/blob/main/Word2vec/WordtoVec.pdf"> here </a>.
       </span>  
       </ul>
      </div>
