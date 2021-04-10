@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: "2021-03-01"
   date_start: "2018-01-01"
-  description: A list, description and links to code for personal projects I worked on in Machine Learning, Reinforcement learning and statistics.
+  description: A list, description and links to code for personal projects I worked on in Machine Learning, Reinforcement Learning and Statistics.
   organization: ""
   organization_url: ""
   title: Machine Learning & Statistics Projects
