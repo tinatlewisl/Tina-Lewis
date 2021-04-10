@@ -65,7 +65,7 @@ This page contains descriptions of a collections of Reinforcement Learning proje
      </div>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Detecting Quantitative Trait Loci using Bayesian Lasso Hierarchical Model</span>  
+    <span style="font-weight: bold;">Predicting Users Music Sequence using Word2Vec Skipgram and LSTM model </span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> December 2017 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R </span>
     <ul>
     <span style="font-size:13px;">
