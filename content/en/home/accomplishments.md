@@ -29,7 +29,7 @@ item:
   description: A list, description and links to code for personal projects I worked on in Machine Learning, Reinforcement Learning and Statistics.
   organization: ""
   organization_url: ""
-  title: Machine Learning & Statistics Projects
+  title: Machine Learning, Reinforcement Learning & Statistics Projects
   url: https://tinatl-lewislt.netlify.app/pprojects/example/  
   
 ---
