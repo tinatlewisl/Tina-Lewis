@@ -24,19 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: "2019-05-01"
-  date_start: "2018-10-01"
-  description: A list and description of personal projects I worked on in Machine Learning.
+  date_end: "2021-03-01"
+  date_start: "2018-01-01"
+  description: A list, description and links to code for personal projects I worked on in Machine Learning, Reinforcement learning and statistics.
   organization: ""
   organization_url: ""
   title: Machine Learning & Statistics Projects
-  url: https://tinatl-lewislt.netlify.app/pprojects/example/
-- certificate_url: ""
-  date_end: "2019-12-15"
-  date_start: "2019-01-01"
-  description: A list and description of personal projects I worked on in Reinforcement Learning.
-  organization: ""
-  organization_url: ""
-  title: Reinforcement Learning Projects
-  url: https://tinatl-lewislt.netlify.app/pprojects/example2/  
+  url: https://tinatl-lewislt.netlify.app/pprojects/example/  
+  
 ---
