@@ -137,6 +137,7 @@ This page contains descriptions of a collections of machine learning, reinforcem
      <li> Performed <a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
      <li> Estimated genetic map in R using the two-point algorithm, Rapid Chain Delineation (RCD).</li>
      <li> Conducted a permutation test to determine the significance threshold for interval and composite interval mapping.</li>
+      <li> A full report for this project can be found <a href= "https://github.com/IbrigaHilda/Projects/blob/main/Statistics/QTL/QTL%20Project%20report.pdf" > here </a>.
       </span>  
       </ul>
      </div>
