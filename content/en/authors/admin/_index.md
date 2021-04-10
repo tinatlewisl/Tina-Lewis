@@ -43,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: https://www.linkedin.com/in/hilda-ibriga-442134113/  
 - icon: github
   icon_pack: fab
-  link: https://github.com/tinatlewisl
+  link: https://github.com/IbrigaHilda
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tina-lewis-101316207/
+  link: https://www.linkedin.com/in/hilda-ibriga-442134113/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
