@@ -31,7 +31,7 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This page contains descriptions of a collections of machine learning and statistics projects I worked on over the course of my graduate studies. This page will be updated with the different projects codes on github in the near future, as well as R packages that I am in the process of building for tensor data analysis.
+This page contains descriptions of a collections of Reinforcement Learning projects I worked on over the course of my graduate studies. This page will be updated with the different projects codes on github in the near future.
 
  <!DOCTYPE html>
 <html lang="en">
@@ -51,13 +51,15 @@ This page contains descriptions of a collections of machine learning and statist
   <body>
   <hr>
    <div class="boxed">
-    <span style="font-weight: bold;">Sentiment Analysis of Amazon, IMDb and Yelp Data </span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> August 2016 -- May 2019</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python </span>
+    <span style="font-weight: bold;">Simulations for Accessing Global Convergence of Policy Gradient Methods in Reinforcement Learning </span>  
+    <br><span style="color:grey; font-family:roboto; font-size:13px;"> October 2018 -- December 2018</span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> Python | Tensorflow </span>
     <ul>
     <span style="font-size:13px;">
-      <li> Performed sentiment analysis on customers and users reviews data from Amazon, IMDb, and Yelp.</li>
-      <li> Trained a Multinomial Naive Bayes classifier to distinguish between positive and negative customer reviews.</li>
-      <li> Wrote a Python program which reads in reviews, performs data cleaning and feature extraction and for each review decides whether it holds a positive or a negative sentiment.</li>
+      <li> Evaluated the convergence performance of two policy gradient methods(Model-free & Mode-based) introduced in Fazel et al (2018) on the cartpole problem.</li>
+      <li> Used the cartpole {position, velocity, angle and rotation} as input in the model free case in addition to the action taken at time t for the model-based case.
+      <li> Model the ouput in both cases as the probability of the pole moving left or right as output.
+      <li> Trained a neural network with 32 nodes and the ReLu activating function and adaptive learning to represent the policy gradient model for the model free method. The 
+      <li> Used cross entropy loss function of the discounted reward as loss function and chose reward discount rate to cause future rewards to be highly valued.
       </span>  
       </ul>
      </div>
@@ -75,28 +77,5 @@ This page contains descriptions of a collections of machine learning and statist
       </ul>
      </div>
   <hr>
-   <div class="boxed">
-    <span style="font-weight: bold;">Detecting Fraudulent Credit Card Transactions using Weighted Logistic Regression</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  Python</span>
-    <ul>
-    <span style="font-size:13px;">
-      <li> Used credit card transactions data from a major bank to train a logistic regression for detecting fraudulent transactions in Python.</li>
-      <li> Performed data cleaning and feature selections.</li>
-      <li> Applied L2 regularization on logistic regression and adjusted for unbalanced number of fraudulent and non-fraudulent cases in training data using weights to improve classifier performance and reduce bias.</li>
-      </span>  
-      </ul>
-     </div>
-  <hr>
-    <div class="boxed">
-    <span style="font-weight: bold;"><a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> Mapping of Lipid Profiles in Mouse</span>  
-    <br><span style="color:grey; font-family:roboto; font-size:13px;"> May 2018 </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;">  R|QTL Cartographer</span>
-    <ul>
-    <span style="font-size:13px;">
-     <li> Performed <a href=" https://en.wikipedia.org/wiki/Quantitative_trait_locus#:~:text=A%20quantitative%20trait%20locus%20(QTL)%20is%20a%20region%20of%20DNA,often%20found%20on%20different%20chromosomes">QTL</a> mapping to identify Quantitative Trait Loci associated with plasma triglyceride and HDL concentration exibiting a mixture of normal distribution.</li>
-     <li> Estimated genetic map in R using the two-point algorithm, Rapid Chain Delineation (RCD).</li>
-     <li> Conducted a permutation test to determine the significance threshold for interval and composite interval mapping.</li>
-      </span>  
-      </ul>
-     </div>
   </body>
 </html>  
