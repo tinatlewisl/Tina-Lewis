@@ -145,5 +145,12 @@ This page contains descriptions of a collections of machine learning, reinforcem
       </span>  
       </ul>
      </div>
+    
+  <script>
+  function myFunction() {
+     var element = document.body;
+     element.classList.toggle("dark-mode");
+    } 
+  </script>
   </body>
 </html>  
