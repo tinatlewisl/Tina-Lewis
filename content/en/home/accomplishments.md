@@ -30,6 +30,6 @@ item:
   organization: ""
   organization_url: ""
   title: Machine Learning, Reinforcement Learning & Statistics Projects
-  url: https://tinatl-lewislt.netlify.app/pprojects/example/  
+  url: https://hilda-ibriga.netlify.app/pprojects/example/  
   
 ---
