@@ -14,7 +14,7 @@ organizations:
   url: https://tinatl-lewislt.netlify.app/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes intérêts de recherche incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique. J'ai également travaillé sur des projets appliqués en apprentissage par renforcement au fil des ans et j'ai également 3 ans d'expérience professionnelle en tant que consultant en statistique.
+bio: Mes intérêts de recherche incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). J'ai également travaillé sur des projets appliqués dans le domaine de l intelligence artificielle. Je beneficie également de 3 années d'expérience professionnelle en tant que consultant en statistique.
 
 # Interests to show in About widget
 interests:
@@ -65,12 +65,11 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-Je suis Hilda Ibriga, étudiante au doctorat en statistiques à l'Université de Purdue aux Etats Unis. Je conduis mes recherches de thèse sous la direction du Professeur BC et du Professeur WS. Les sujets de recherches sur lesquels je me consacre actuellement incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning).  
-Mes recherches visent la creation de méthodes d'analyse de tenseurs qui peuvent être utilisées a fin d'améliorer les performances des systèmes de recommandation informatiques, des algorithmes de récupération de larges données manquantes et des algorithmes de recommandations personnalisées. Pour cela je travaille sur la théorie des tenseurs mais aussi développe des outils, algorithmes et lociciels qui facilitent l'intégrations des méthodes tensorielles dans des algorithmes de machine learning préexistants.
+Je me nomme Hilda Ibriga Doctorante en Maths/Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. Bruce Craig et Pr. Wei Sun. 
 
-J'ai également travaillé sur des projets appliqués dans le domaine du l'intelligence artificiel, plus précisément le reinforcement learning (l'apprentissage par renforcement) et j'aimerais poursuivre davantage des recherches dans ce domaine dans les années à venir.
+Mes travaux de recherche s' orientent principalement sur l' analyse théorique des tenseurs et leur application à l' apprentissage automatique (Machine Learning).  
+Ces recherches visent la création de méthodes d' analyse de tenseurs, l' amélioration des performances des systèmes de recommandation informatiques et le développement d'algorithmes de récupération de données manquantes.  Ainsi mis à part la théorie, je crée des outils et logiciels qui facilitent l' intégration des méthodes d' analyse  tensorielle dans les algorithmes de Machine Learning préexistantes.
 
-J'ai trois années d'expérience de travail en tant que consultante en statistiques au cours desquels j'ai eu l'opportunité de travailler sur plus de 50 projets du début à la fin. Je trouve une grande joie à partager les connaissances que j'ai acquises au fil des ans et je l'ai fait au cours de quatre années d'enseignement d'une grande variété de cours de mathématiques et de statistiques de premier et deuxième cycles d'université .
+J’ai également travaillé sur des projets appliqués dans le domaine de l’intelligence artificielle, plus précisément le Reinforcement Learning et j’aimerais poursuivre davantage des recherches dans ce domaine dans les prochaines années. 
 
-
-{{< icon name="download" pack="fas" >}} Accéder à mon {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+je bénéficie de trois années d’expérience de travail en tant que consultante en statistiques aux cours desquelles,  j'ai mené à terme plus de 50 projets. J’ ai eu l'opportunité de partager l'expérience que j’ai acquise tout au long de mon cursus scolaire en enseignant divers cours de mathématiques et de statistiques de premier et deuxième cycles d’université.  
