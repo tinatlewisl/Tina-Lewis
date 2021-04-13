@@ -68,7 +68,8 @@ highlight_name: true
 Je me nomme Hilda Ibriga, doctorante en Maths/Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) et du Pr. [Wei Sun](https://web.ics.purdue.edu/~sun244/). 
 
 Mes travaux de recherche s' orientent principalement sur l' analyse théorique des tenseurs et leur application à l' apprentissage automatique (Machine Learning).  
-Ces recherches visent la création de méthodes d' analyse de tenseurs, l' amélioration des performances des systèmes de recommandation informatiques et le développement d'algorithmes de récupération de données manquantes.  Ainsi mis à part la théorie, je crée des outils et logiciels qui facilitent l' intégration des méthodes d' analyse  tensorielle dans les algorithmes de Machine Learning préexistantes.
+Ces recherches visent la création de méthodes d' analyse de tenseurs, l' amélioration des performances des systèmes de recommandation informatiques et le développement d'algorithmes de récupération de données manquantes.  
+Mis à part la théorie, je crée des outils et logiciels qui facilitent l' intégration des méthodes d' analyse  tensorielle dans les algorithmes de Machine Learning préexistantes.
 
 J’ai également travaillé sur des projets appliqués dans le domaine de l’intelligence artificielle, plus précisément le Reinforcement Learning et j’aimerais poursuivre davantage des recherches dans ce domaine dans les prochaines années. 
 
