@@ -30,6 +30,6 @@ item:
   organization: ""
   organization_url: ""
   title: Machine Learning, Reinforcement Learning & Statistics Projects
-  url: https://hilda-ibriga.me/fr/pprojects/example/  
+  url: https://hilda-ibriga.netlify.app/fr/pprojects/example/  
   
 ---
