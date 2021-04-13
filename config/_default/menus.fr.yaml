@@ -7,7 +7,7 @@ main:
   - name: Accueil
     url: '#about'
     weight: 10
-  - name: Education
+  - name: CV
     url: uploads/resume.pdf
     weight: 20
   - name: Expériences Professionnelles
