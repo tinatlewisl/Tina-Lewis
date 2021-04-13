@@ -46,8 +46,12 @@ This page contains descriptions of a collections of machine learning, reinforcem
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
+        color: black;
       }  
-    
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }   
   </style>
   </head>
   <body>
