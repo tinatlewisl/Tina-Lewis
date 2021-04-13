@@ -29,7 +29,7 @@ publication_types: ["3"]
 publication: Under *review*  
 # publication_short: *Under Review*
 
-abstract: gggffggf  
+# abstract: gggffggf  
 
 # Summary. An optional shortened abstract.
 summary: High-frequency ultrasound were used to collect data from angiotensin II-induced aneurysms to develop prediction models of both aneurysm formation and growth. Baseline measurements of aortic diameter, volume/length, and strain were used with animal mass and age in a quadratic discriminant analysis and logistic regression to build two statistical models to predict disease status.All three statistical models could be useful in future aneurysm therapeutic studies to better delineate the effects of preventative and suppressive treatments from normal variations in the angiotensin II aneurysm model.  
