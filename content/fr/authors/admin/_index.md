@@ -65,7 +65,7 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-Je me nomme Hilda Ibriga, doctorante en Maths/Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) et du Pr. [Wei Sun](https://web.ics.purdue.edu/~sun244/). 
+Je me nomme Hilda Ibriga, doctorante en Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) et du Pr. [Wei Sun](https://web.ics.purdue.edu/~sun244/). 
 
 Mes travaux de recherche s' orientent principalement sur l' analyse théorique des tenseurs et leur application à l' apprentissage automatique (Machine Learning).  
 Ces recherches visent la création de méthodes d' analyse de tenseurs, l' amélioration des performances des systèmes de recommandation informatiques et le développement d'algorithmes de récupération de données manquantes.  
