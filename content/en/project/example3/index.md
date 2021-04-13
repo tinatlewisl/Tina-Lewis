@@ -30,13 +30,13 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This section contains descriptions of Statistics consulting projects I worked on in fields such as from social science and linguistics. 
+This section contains descriptions of Statistics consulting projects I worked on in fields such as from social science and linguistics.  
+
 
  <!DOCTYPE html>
 <html lang="en">
   <head>
   <style>
-      /* The . with the boxed represents that it is a class */
       .boxed {
         border-style: outset;  
         border-radius: 5px;
@@ -48,8 +48,8 @@ This section contains descriptions of Statistics consulting projects I worked on
   </head>
   <body>
   <hr>
-  	  <div class="boxed">
-      <span style="font-weight: bold;">Understanding the production of copula ser and estar in Spanish and Catalan</span>  
+   <div class="boxed">
+   <span style="font-weight: bold;">Understanding the production of copula ser and estar in Spanish and Catalan</span>  
     <br><span style="color:grey; font-family:roboto; font-size:13px;"> July 2019 --  August 2019 &#183 Linguistics </span> <span style="color:grey; font-family:roboto; font-size:13px;float:right;"> SAS </span>
       <ul>
       <span style="font-size:13px;">
