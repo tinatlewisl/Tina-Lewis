@@ -73,4 +73,4 @@ Mis à part la théorie, je crée des outils et logiciels qui facilitent l' int�
 
 J’ai également travaillé sur des projets appliqués dans le domaine de l’intelligence artificielle, plus précisément le Reinforcement Learning et j’aimerais poursuivre davantage des recherches dans ce domaine dans les prochaines années. 
 
-je bénéficie de trois années d’expérience de travail en tant que consultante en statistiques aux cours desquelles,  j'ai mené à terme plus de 50 projets. J’ ai eu l'opportunité de partager l'expérience que j’ai acquise tout au long de mon cursus scolaire en enseignant divers cours de mathématiques et de statistiques de premier et deuxième cycles d’université.  
+je bénéficie de trois années d’expérience de travail en tant que consultante en statistiques aux cours desquelles,  j'ai mené à terme plus de 50 projets. J’ ai eu l'opportunité de partager l'expérience que j’ai acquise tout au long de mon cursus scolaire en enseignant divers cours de mathématiques et de statistiques de premier et deuxième cycles d’université.

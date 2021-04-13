@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Projets de Consultant
+title: Consulting Projects
 subtitle: ''
 
 content:
@@ -30,11 +30,11 @@ content:
   - name: Engineering    
     tag: Engineering   
   - name: Natural Sciences  
-    tag: Natural Sciences  
-  - name: Social Sciences    
-    tag: Social Sciences   
-  - name: Other    
-    tag: Other    
+    tag: Natural Sciences 
+  - name: Health Sciences  
+    tag: Health Sciences  
+  - name: Social Sciences & Other  
+    tag:  Social Sciences  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -48,5 +48,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 --- 

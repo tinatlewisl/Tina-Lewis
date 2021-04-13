@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Expériences Professionnelles
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -34,9 +34,10 @@ experience:
         Responsibilities include:  
         
         * Supervising a group of 12 TAs  
-        * Co-writting projects  
-        * Holding office hours  
-        * Contributing to the DataMine example book
+        * Organized and ran TA training meetings  
+        * Contributed to writing, reviewing, and editing all course projects  
+        * Held office hours and led projects grading meetings  
+        * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 
   - title: Data Science Intern
     company: Asana 
@@ -47,11 +48,14 @@ experience:
     description: |2-  
         Responsibilities include:    
         
-        * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.  
-        * Modelled Machine learning algorithms to assist various product teams decisions.  
+        * Conducted comparative research on two competing model agnostic machine learning interpretability methods [Lime](https://arxiv.org/pdf/1602.04938v1.pdf) and [Anchor](https://ojs.aaai.org/index.php/AAAI/article/view/11491/11350).   
+        * Worked on integrating Lime into the existing machine learning model for predicting account churn which allowed to:  
+           - Identify features which explain high churning probability for a given account  
+           - facilitate understanding and actionability for the business team  
+        *  Co-wrote documentation for the implementation and integration of Lime into the account churning model      
 
   - title: Statistics Consultant
-    company: Purdue Statistical Consultant Service 
+    company: Purdue Statistical Consulting Service 
     company_url: 'https://www.stat.purdue.edu/scs/index.html'
     location: West Lafayette, IN
     date_start: '2015-08-15'
@@ -60,8 +64,8 @@ experience:
         Responsibilities include:      
                 
         * Worked on 50+ consulting projects on fields such as: Engineering, Social Sciences, Natural Sciences, Hotel Management, Linguistics.  
-        * Assisted clients at each of the fundamental statistical modeling steps: defining scope of project, design of experiment, data quality control, data analysis andm visualization, results interpretation and writing for journal publication, technical report and grant proposal.  
-        * Met one-on-one with clients to help with computer code and running statistical analysis and machine learning projects using R, SAS, SPSS, MATLAB and SQL.  
-        * Projects include social network analysis, power analysis and sample size calculation for complex experimental designs, analysis of large time series data, analysis on datasets with missing values, evaluation metrics engineering.  
-        * Co-authored the free manual titled "Introduction to the Statistical Software R", providing a quick introduction to R for the use of faculty and students at Purdue University.
+        * Assisted clients at each of the fundamental statistical modeling steps: defining scope of project, design of experiment, data quality control, data analysis and visualization, results interpretation and writing for journal publication, technical report and grant proposal.  
+        * Met one-on-one with clients to help with running statistical analysis and machine learning projects using R, SAS, MATLAB and SQL.  
+        * Projects include social network analysis, sample size calculation for complex experimental designs, analysis of large time series data, analysis on datasets with missing values, metrics engineering.  
+        * Co-authored the free manual titled "Introduction to the Statistical Software R", to provide a quick introduction to R for the use of faculty and students at Purdue University.
 ---
