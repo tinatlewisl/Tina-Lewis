@@ -74,5 +74,3 @@ I have also worked on applied projects in reinforcement learning and would like 
 I have three years of work experience as a statistics consultant during which period I had the opportunity to work on over 50 projects from beginning to completion. I find great joy in sharing the knowledge I have acquired over the years and I have been fortunate to do so through four years of teaching a wide variety of undergraduate and graduate level Statistics and Maths courses.
 
 
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
