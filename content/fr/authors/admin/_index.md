@@ -11,7 +11,7 @@ role: Doctorante en Satistique et Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Purdue University
-  url: https://tinatl-lewislt.netlify.app/
+  url: https://www.purdue.edu/  
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes intérêts de recherche incluent l'analyse théorique des tenseurs et leur application à l'apprentissage automatique (Machine Learning). J'ai également travaillé sur des projets appliqués dans le domaine de l intelligence artificielle. Je beneficie également de 3 années d'expérience professionnelle en tant que consultant en statistique.
@@ -43,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: https://www.linkedin.com/in/hilda-ibriga-442134113/  
 - icon: github
   icon_pack: fab
-  link: https://github.com/tinatlewisl
+  link: https://github.com/IbrigaHilda  
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tina-lewis-101316207/
+  link: https://www.linkedin.com/in/hilda-ibriga-442134113/  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,7 +65,7 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-Je me nomme Hilda Ibriga Doctorante en Maths/Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. Bruce Craig et Pr. Wei Sun. 
+Je me nomme Hilda Ibriga Doctorante en Maths/Statistiques à Purdue University aux Etats Unis.  J'effectue mes recherches de thèse sous la direction du Pr. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) et du Pr. [Wei Sun](https://web.ics.purdue.edu/~sun244/). 
 
 Mes travaux de recherche s' orientent principalement sur l' analyse théorique des tenseurs et leur application à l' apprentissage automatique (Machine Learning).  
 Ces recherches visent la création de méthodes d' analyse de tenseurs, l' amélioration des performances des systèmes de recommandation informatiques et le développement d'algorithmes de récupération de données manquantes.  Ainsi mis à part la théorie, je crée des outils et logiciels qui facilitent l' intégration des méthodes d' analyse  tensorielle dans les algorithmes de Machine Learning préexistantes.
