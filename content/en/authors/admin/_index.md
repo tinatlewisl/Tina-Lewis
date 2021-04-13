@@ -11,7 +11,7 @@ role: Ph.D student in Satistics and Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Purdue University
-  url: https://tinatl-lewislt.netlify.app/
+  url: https://www.purdue.edu/  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the theoretical analysis of tensors and their application to machine learning. I have also worked on applied projects in reinforcement learning for some years and have 3 years of work experience as a statistics consultant.
@@ -65,7 +65,7 @@ email: "tinat.lewisl@yahoo.com"
 highlight_name: true
 ---
 
-I am Hilda Ibriga, currently a PhD student in Statistics at Purdue University, working under the supervision of Prof. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) and Dr. [Wei Sun](https://web.ics.purdue.edu/~sun244/).  
+I am Hilda Ibriga, currently a PhD student in Statistics at Purdue University, working under the supervision of Prof. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) and Prof. [Wei Sun](https://web.ics.purdue.edu/~sun244/).  
 
 My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery and personalized recommendations algorithms. To this end my PhD research is centered around the theory of tensors but also in developping tools to facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
