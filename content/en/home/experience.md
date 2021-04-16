@@ -33,9 +33,8 @@ experience:
         
         Responsibilities include:  
         
-        * Supervising a group of 12 TAs  
-        * Organized and ran TA training meetings  
-        * Contributed to writing, reviewing, and editing all course projects  
+        * Supervised a group of 12 TAs, organized and ran TA training meetings  
+        * Contributed to writing, reviewing all R, python and SQL course projects  
         * Held office hours and led projects grading meetings  
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 
