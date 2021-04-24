@@ -1,6 +1,6 @@
 ---
 # Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
-widget: 'github.<USERNAME>.<WIDGET-NAME>'
+widget: 'github.tinatlewisl.pub'
 
 # This file represents a page section.
 headless: true
