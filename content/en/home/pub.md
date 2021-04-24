@@ -1,7 +1,5 @@
 ---
 # An instance of the Experience widget.
-# Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively  
- 
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: 'github.tinatlewisl.pub'
 
@@ -39,3 +37,4 @@ experience:
         * Contributed to writing, reviewing all R, python and SQL course projects  
         * Held office hours and led projects grading meetings  
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
+---
