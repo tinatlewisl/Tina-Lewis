@@ -37,7 +37,6 @@ experience:
         * Contributed to writing, reviewing all R, python and SQL course projects    
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 ---
-<!-- Citation modal -->
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
