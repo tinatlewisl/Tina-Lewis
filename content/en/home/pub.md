@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: 'github.tinatlewisl.pub'
+widget: 'github.tinatlewisl.pubs'
 
 # This file represents a page section.
 headless: true
@@ -34,7 +34,6 @@ experience:
         Responsibilities include:  
         
         * Supervised a group of 12 TAs, organized and ran TA training meetings  
-        * Contributed to writing, reviewing all R, python and SQL course projects  
-        * Held office hours and led projects grading meetings  
+        * Contributed to writing, reviewing all R, python and SQL course projects    
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 ---
