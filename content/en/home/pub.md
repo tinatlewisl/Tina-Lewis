@@ -6,9 +6,7 @@ widget: 'github.tinatlewisl.pub'
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 140
 
 title: Hello
----
-
-Welcome to my new widget!
+---  
