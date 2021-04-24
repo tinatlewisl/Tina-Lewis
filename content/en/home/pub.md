@@ -37,6 +37,9 @@ experience:
         * Contributed to writing, reviewing all R, python and SQL course projects    
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 ---
+<!DOCTYPE html>
+<html lang="en">
+<body>
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -61,3 +64,5 @@ experience:
     </div>
   </div>
 </div>
+</body>
+</html>  
