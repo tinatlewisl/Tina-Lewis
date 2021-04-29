@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference on Convariate-assisted Sparse Tensor Completion and application in Ads recommendation"
+title: "Inference and Uncertainty Quantification for Covariate-assisted Sparse Tensor Completion And Application to Ad Recommendation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
