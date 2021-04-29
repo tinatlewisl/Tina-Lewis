@@ -67,7 +67,7 @@ highlight_name: true
 
 I am Hilda Ibriga, currently a PhD student in Statistics at Purdue University, working under the supervision of Prof. [Bruce Craig](https://www.stat.purdue.edu/~bacraig/) and Prof. [Wei Sun](https://web.ics.purdue.edu/~sun244/).  
 
-My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery and personalized recommendations algorithms. To this end my PhD research is centered around the theory of tensors but also in developping tools to facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
+My research interests include the theoretical analysis of tensors and their application to machine learning. I am especially interested in developing tensor analysis methods that can be used to boost the performance of recommender systems, missing data recovery and personalized recommendations algorithms. To this end my PhD research is centered around the theory of tensors but also in developing tools to facilitate the integrations of tensor methods into pre-existing machine learning algorithms. 
 
 I have also worked on applied projects in reinforcement learning and would like to pursue more work in this field in the coming years.
 
