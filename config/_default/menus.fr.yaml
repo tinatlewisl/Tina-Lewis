@@ -7,9 +7,6 @@ main:
   - name: Accueil
     url: '#about'
     weight: 10
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 20
   - name: Expériences Professionnelles
     url: '#skills'
     weight: 30
@@ -34,3 +31,6 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+#   - name: CV
+#    url: uploads/resume.pdf
+#    weight: 20
