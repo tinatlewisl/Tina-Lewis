@@ -78,7 +78,7 @@ This page contains descriptions of a collections of machine learning, reinforcem
       <li> Model the ouput in both cases as the probability of the pole moving left or right as output.
       <li> Trained a neural network with 32 nodes and the ReLu activating function and adaptive learning to represent the policy gradient model for the model free method. The 
       <li> Used cross entropy loss function of the discounted reward as loss function and chose reward discount rate to cause future rewards to be highly valued.
-      <li> Details and simulation codes for this project are available on my Github page <a href="https://github.com/IbrigaHilda/Projects/blob/main/Reinforcement%20Learning/Simulation_Assessing_Global_Convergence_of_Policie_Gradient.ipynb"> here </a>.
+      <li> Details and simulation codes for this project are available on my Github page <a href="https://github.com/IbrigaHilda/Projects/blob/main/Reinforcement_Learning/Policy_Gradient/Simulation_Assessing_Global_Convergence_of_Policie_Gradient.ipynb"> here </a>.
       </span>  
       </ul>
      </div>
