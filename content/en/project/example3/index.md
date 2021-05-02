@@ -30,18 +30,20 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This section contains descriptions of Statistics consulting projects I worked on in the field of social science.  
+This section contains a non-exhaustive list of Statistics consulting projects I worked on which subject matter relates to the fields of social science science. A link to the final project outcome is provided when the client allows for it.
 
  <!DOCTYPE html>
 <html lang="en">
   <head>
   <style>
+      /* The . with the boxed represents that it is a class */
       .boxed {
         border-style: outset;  
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-      }   
+      }
+   
   </style>
   </head>
   <body>
