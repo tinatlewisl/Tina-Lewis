@@ -33,9 +33,8 @@ experience:
         
         Responsibilities include:  
         
-        * Supervising a group of 12 TAs  
-        * Organized and ran TA training meetings  
-        * Contributed to writing, reviewing, and editing all course projects  
+        * Supervised a group of 12 TAs, organized and ran TA training meetings  
+        * Contributed to writing, reviewing all R, python and SQL course projects  
         * Held office hours and led projects grading meetings  
         * Contributor and editor of the [DataMine example book](https://thedatamine.github.io/the-examples-book/index.html)    
 
@@ -63,9 +62,11 @@ experience:
     description: |2-  
         Responsibilities include:      
                 
-        * Worked on 50+ consulting projects on fields such as: Engineering, Social Sciences, Natural Sciences, Hotel Management, Linguistics.  
-        * Assisted clients at each of the fundamental statistical modeling steps: defining scope of project, design of experiment, data quality control, data analysis and visualization, results interpretation and writing for journal publication, technical report and grant proposal.  
-        * Met one-on-one with clients to help with running statistical analysis and machine learning projects using R, SAS, MATLAB and SQL.  
-        * Projects include social network analysis, sample size calculation for complex experimental designs, analysis of large time series data, analysis on datasets with missing values, metrics engineering.  
-        * Co-authored the free manual titled "Introduction to the Statistical Software R", to provide a quick introduction to R for the use of faculty and students at Purdue University.
+        * Worked on 50+ consulting projects on fields such as: Engineering, Social Sciences, Natural Sciences.  
+        * Assisted clients at each of the fundamental statistical modeling steps: 
+          - Defining scope of project, design of experiment,
+          - Data quality control, data analysis and visualization using R, SAS, MATLAB or SQL  
+          - Results interpretation and writing for journal publication, technical report and grant proposal.  
+        * Projects include social network analysis, sample size calculation for complex experimental designs, analysis of large time series data, metrics engineering.   
+        * Co-authored the free manual titled “Introduction to the Statistical Software R”, to provide a quick introduction to R for the use of faculty and students at Purdue University.
 ---

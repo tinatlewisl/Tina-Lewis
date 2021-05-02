@@ -19,7 +19,7 @@ feature:
 - description: Logiciel
   icon: python
   icon_pack: fab 
-  name: R, Python, Matlab, C, SQL, SAS
+  name: R, Python, Matlab, SQL, SAS
 - description: Expertises
   icon: lightbulb
   icon_pack: fas
