@@ -36,14 +36,12 @@ This section contains descriptions of Statistics consulting projects I worked on
 <html lang="en">
   <head>
   <style>
-      
       .boxed {
         border-style: outset;  
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
-      }
-   
+      }   
   </style>
   </head>
   <body>
