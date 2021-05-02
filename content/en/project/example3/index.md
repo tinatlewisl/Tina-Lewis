@@ -36,7 +36,7 @@ This section contains descriptions of Statistics consulting projects I worked on
 <html lang="en">
   <head>
   <style>
-      /* The . with the boxed represents that it is a class */
+      
       .boxed {
         border-style: outset;  
         border-radius: 5px;
