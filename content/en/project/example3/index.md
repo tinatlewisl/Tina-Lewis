@@ -32,7 +32,6 @@ external_link: ""
 ---
 This section contains descriptions of Statistics consulting projects I worked on in the field of social science.  
 
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
