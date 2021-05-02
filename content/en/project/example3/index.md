@@ -30,10 +30,10 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This section contains descriptions of Statistics consulting projects I worked on in fields such as from social science and linguistics.  
+This section contains descriptions of Statistics consulting projects I worked on in the field of social science.  
 
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
   <style>
@@ -43,7 +43,6 @@ This section contains descriptions of Statistics consulting projects I worked on
         padding: 20px 20px 20px 20px;
         margin-right: 0px;
       }
-   
   </style>
   </head>
   <body>
