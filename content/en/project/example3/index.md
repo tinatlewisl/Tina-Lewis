@@ -30,7 +30,7 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-This section contains a non-exhaustive list of Statistics consulting projects I worked on which subject matter relates to the fields of social science science. A link to the final project outcome is provided when the client allows for it.
+This section contains a non-exhaustive list of Statistics consulting projects I worked on which subject matter relates to the fields of social science. A link to the final project outcome is provided when the client allows for it.
 
  <!DOCTYPE html>
 <html lang="en">
