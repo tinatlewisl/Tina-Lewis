@@ -5,7 +5,7 @@
 
 title: Hilda Ibriga  #Tina Lewis # Website name
 baseurl: 'hilda-ibriga.me' # Website URL #'tinatl-lewislt.netlify.app'
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Hilda Ibriga' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -24,7 +24,6 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy  
-    - path: github.com/tinatlewisl/wowchemy-widget-pub
 
 ############################
 ## ADVANCED
