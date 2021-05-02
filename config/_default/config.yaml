@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hilda Ibriga  #Tina Lewis # Website name
-baseurl: 'hilda-ibriga.me' # Website URL #'tinatl-lewislt.netlify.app'
+baseurl: 'hilda-ibriga.netlify.app' # Website URL #'tinatl-lewislt.netlify.app'
 copyright: '© {2021} Hilda Ibriga' # Footer text, e.g. '© {year} Me'
 
 ############################
